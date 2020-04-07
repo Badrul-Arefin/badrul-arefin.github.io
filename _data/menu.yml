@@ -4,17 +4,18 @@
 - title: "Research"
   href: "/research/"
 
-- title: "Projects"
-  href: "/projects/"
-
-- title: "Blog"
-  href: "/blog/"
+- title: "Publications"
+  href: "/publications/"
 
 - title: "CV"
   href: "/cv/"
-
-- title: "Miscellany"
-  href: "/miscellany/"
+  
+- title: "Link"
+  href: "/link/"
+  
+  
+- title: "Others"
+  href: "/others/"
   subcategories:
-    - subtitle: "Travel"
-      subhref: "/miscellany/travel/"
+    - subtitle: ""
+      subhref: "///"
