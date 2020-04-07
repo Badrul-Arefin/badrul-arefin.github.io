@@ -6,7 +6,8 @@ title: Research
 <h2>In brief</h2>
 
 <b>1st Postdoc research</b>
-<br><b>Title:</b>The Notch signalling in the central nervous system (CNS) development.
+<br>1.The Notch signalling in the central nervous system (CNS) development.
+<br>2. Characterizing the stabilized version of the CDK inhibitor Dacapo and human p21 in the developing nervous system.
 <br>Supervisor: Prof. Stefan Thor, Linköping University, Sweden.
 
 
