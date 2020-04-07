@@ -66,7 +66,7 @@ title: Research
 </li><br>
 	<li>
 	<a href="https://www.ncbi.nlm.nih.gov/pubmed/25071815">	<div class="color-button">Damage signals in the insect immune response.</div></a>
-	<b>Krautz R, <b>Arefin B</b>, Theopold U.<br><i>
+	Krautz R, <b>Arefin B</b>, Theopold U.<br><i>
 	<b>Front Plant Sci (2014).</b>	
 	
 	
