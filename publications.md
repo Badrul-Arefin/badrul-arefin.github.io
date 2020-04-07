@@ -29,13 +29,15 @@ title: Research
 <li>
 	<a href="https://www.ncbi.nlm.nih.gov/pubmed/30974174">	<div class="color-button">Insect hemolymph coagulation: Kinetics of classically and non-classically secreted clotting factors.</div></a>
 	Schmid MR*, Dziedziech A*, <b>Arefin B</b>*, Kienzle T, Wang Z, Akhter M, Berka J, Theopold U.<br><i>
-	<b>Insect Biochem Mol Biol (2019).</b>	
+	<b>Insect Biochem Mol Biol (2019).</b><br>
+	* equal contribution	
 	
  </li><br>
 	<li>
 	<a href="https://www.ncbi.nlm.nih.gov/pubmed/29884877">	<div class="color-button">Expression of the Shrimp wap gene in Drosophila elicits defense responses and protease inhibitory activity.</div></a>
 	Li D*, Luan Y*, Wang L*, Qi M*, Wang J, Xu J, <b>Arefin B</b>, Li M.<br><i>
-	<b>Scientific Reports (2018).</b>
+	<b>Scientific Reports (2018).</b><br>
+	* equal contribution
 	
 </li><br>
 	<li>
@@ -75,7 +77,8 @@ title: Research
 	<li>
 	<a href="https://www.ncbi.nlm.nih.gov/pubmed/23988573">	<div class="color-button">Genome-wide transcriptional analysis of Drosophila larvae infected by entomopathogenic nematodes shows involvement of complement, recognition and extracellular matrix proteins.</div></a>
 	<b>Arefin B</b>*, Kucerova L*, Dobes P, Markus R, Strnad H, Wang Z, Hyrsl P, Zurovec M, Theopold U.<br><i>
-	<b>J Innate Immun (2014).</b>	
+	<b>J Innate Immun (2014).</b><br>
+	* equal contribution
 	
 	
 	
