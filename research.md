@@ -3,23 +3,22 @@ layout: page
 permalink: /research/
 title: Research
 ---
-<h2>In detail</h2>
+<h2>In brief</h2>
 
 		
 <ul>
 	<li>
-		<a href="1st Postdoc research">	<b>1st Postdoc research</b></a><br>The Notch signalling in the central nervous system (CNS) development.<br>
+		<a href="https://www.ncbi.nlm.nih.gov/pubmed/clipboard">	<b>1st Postdoc research</b></a><br>The Notch signalling in the central nervous system (CNS) development.<br>
 		Supervisor: Prof. Stefan Thor, Linköping University, Sweden.
 
-
-
-<h2>In Short</h2><br>
 
 <b>1st Postdoc research</b><br>
 The Notch signalling in the central nervous system (CNS) development. 
 <br>Supervisor: Prof. Stefan Thor, Linköping University, Sweden.<br>
 
-<b>PhDresearch</b><br>
+<ul>
+	<li>
+		<a href="PhD research">	<b>1st Postdoc research</b></a><br>The Notch signalling in the central nervous system (CNS) development.
 Molecular characterization of the Drosophila responses towards nematodes.  
 <br>Supervisor: Prof. Ulrich Theopold, Stockholm University, Sweden.<br> 
 
