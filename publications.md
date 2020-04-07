@@ -24,11 +24,17 @@ title: Research
 	Bivik Stadler C*, <b>Arefin B</b>*, Ekman H, Thor S.<br><i>
 	<b>Development (2019).</b>
 	
-	</li><br>
-	<li>
+</li><br>
+<li>
 	<a href="https://www.ncbi.nlm.nih.gov/pubmed/30974174">	<div class="color-button">Insect hemolymph coagulation: Kinetics of classically and non-classically secreted clotting factors.</div></a>
 	Schmid MR*, Dziedziech A*, Arefin B*, Kienzle T, Wang Z, Akhter M, Berka J, Theopold U.<br><i>
 	<b>Insect Biochem Mol Biol (2019).</b>	
+	
+ </li><br>
+	<li>
+	<a href="https://www.ncbi.nlm.nih.gov/pubmed/31289041">	<div class="color-button">PIP degron-stabilized Dacapo/p21Cip1 and mutations in ago act in an anti- versus pro-proliferative manner, yet both trigger an increase in Cyclin E levels.</div></a>
+	Bivik Stadler C*, <b>Arefin B</b>*, Ekman H, Thor S.<br><i>
+	<b>Development (2019).</b>
 	
 	
 	
