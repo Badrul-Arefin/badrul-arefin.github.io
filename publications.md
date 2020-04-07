@@ -35,7 +35,7 @@ title: Publications
 	<li>
 	<a href="https://www.ncbi.nlm.nih.gov/pubmed/29884877">	<b>Expression of the Shrimp wap gene in Drosophila elicits defense responses and protease inhibitory activity.</b></a><br>
 	Li D*, Luan Y*, Wang L*, Qi M*, Wang J, Xu J, <b>Arefin B</b>, Li M.<br><i>
-	<b>Scientific Reports (2018).</b><br></i><br>
+	<b>Scientific Reports (2018).</b><br></i>
 	* equal contribution
 	
 </li><br>
@@ -76,7 +76,7 @@ title: Publications
 	<li>
 	<a href="https://www.ncbi.nlm.nih.gov/pubmed/23988573">	<b>Genome-wide transcriptional analysis of Drosophila larvae infected by entomopathogenic nematodes shows involvement of complement, recognition and extracellular matrix proteins.</b></a><br>
 	<b>Arefin B</b>*, Kucerova L*, Dobes P, Markus R, Strnad H, Wang Z, Hyrsl P, Zurovec M, Theopold U.<br><i>
-	<b>J Innate Immun (2014).</b><br></i><br>
+	<b>J Innate Immun (2014).</b><br></i>
 	* equal contribution
 	
 	
