@@ -33,14 +33,14 @@ title: Research
  </li><br>
 	<li>
 	<a href="https://www.ncbi.nlm.nih.gov/pubmed/29884877">	<div class="color-button">Expression of the Shrimp wap gene in Drosophila elicits defense responses and protease inhibitory activity.</div></a>
-	Li D*, Luan Y*, Wang L*, Qi M*, Wang J, Xu J, Arefin B, Li M.<br><i>
+	Li D*, Luan Y*, Wang L*, Qi M*, Wang J, Xu J, <b>Arefin B</b>, Li M.<br><i>
 	<b>Scientific Reports (2018).</b>
 	
 </li><br>
 	<li>
-	<a href="https://www.ncbi.nlm.nih.gov/pubmed/29884877">	<div class="color-button">Expression of the Shrimp wap gene in Drosophila elicits defense responses and protease inhibitory activity.</div></a>
-	Li D*, Luan Y*, Wang L*, Qi M*, Wang J, Xu J, Arefin B, Li M.<br><i>
-	<b>Scientific Reports (2018).</b>
+	<a href="https://www.ncbi.nlm.nih.gov/pubmed/28631995">	<div class="color-button">Monitoring the effect of pathogenic nematodes on locomotion of Drosophila larvae.</div></a>
+	Kunc M, <b>Arefin B</b>, Hyrsl P, Theopold U.<br><i>
+	<b>Fly (2018).</b>
 	
 	
 	
