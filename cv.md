@@ -5,10 +5,9 @@ permalink: /cv/
 ---
 ## A short CV 
 --- 
-<br>
-<ul>
-	<li>
-		<a href="EDUCATION & EMPLOYMENT>	<b>EDUCATION & EMPLOYMENT</b></a><br>
+
+
+<a href="EDUCATION & EMPLOYMENT>	<b>EDUCATION & EMPLOYMENT</b></a><br>
   
   </li><br>
 	<li>
