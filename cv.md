@@ -5,6 +5,8 @@ permalink: /cv/
 ---
 ## A short CV
 --- 
+<div class="text-purple">
+  This text is purple, <a href="#" class="text-inherit"><b>A short CV</a></b>
 	
 ### EDUCATION & EMPLOYMENT
 
