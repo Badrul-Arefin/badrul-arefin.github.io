@@ -51,9 +51,9 @@ title: Research
 	
 </li><br>
 	<li>
-	<a href="https://www.ncbi.nlm.nih.gov/pubmed/28476910">	<div class="color-button">The Immune Phenotype of Three Drosophila Leukemia Models.</div></a>
-	<b>Arefin B</b>, Kunc M, Krautz R, Theopold U.<br><i>
-	<b>G3: GENES, GENOMES, GENETICS (2018).</b>
+	<a href="https://www.ncbi.nlm.nih.gov/pubmed/26694862">	<div class="color-button">The Drosophila Chitinase-Like Protein IDGF3 Is Involved in Protection against Nematodes and in Wound Healing.</div></a>
+	Kucerova L, Broz V, <b>Arefin B</b>, Maaroufi H, Hurychova J, Strnad H, Zurovec M, Theopold U.<br><i>
+	<b>J Innate Immun (2016).</b>
 	
 	
 	
