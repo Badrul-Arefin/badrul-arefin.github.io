@@ -12,8 +12,6 @@ title: Research
 		Supervisor: Prof. Stefan Thor, Linköping University, Sweden.
 
 
-
-
 		<a href="https://www.ncbi.nlm.nih.gov/pubmed">	<b>PhD research</b></a><br>Molecular characterization of the Drosophila responses towards nematodes.  
 <br>Supervisor: Prof. Ulrich Theopold, Stockholm University, Sweden.<br> 
 
@@ -40,5 +38,5 @@ Analysis of the mechanism of bicoid mRNA transport and the function of a Bicoid 
 		<a href="https://www.ncbi.nlm.nih.gov/pubmed/31825841">	<b>Drosophila Neuroblast Selection Is Gated by Notch, Snail, SoxB, and EMT Gene Interplay.</b></a><br><b>Arefin B</b>, Parvin F, Bahrampour S, Stadler CB, Thor S.<br><i>
 		<b>Cell Reports (2019).</b></i>
   
-  </li><br>
-	<li>
+  <div class="text-blue mb-2">
+  .text-blue on white
