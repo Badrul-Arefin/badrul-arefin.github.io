@@ -14,7 +14,7 @@ title: Publications
   
   </li><br>
 	<li>
-		<a href="https://www.ncbi.nlm.nih.gov/pubmed/31367663"><b>Data on Drosophila clots and hemocyte morphologies using GFP-tagged secretory proteins: Prophenoloxidase and transglutaminase.</b></a></li>
+		<a href="https://www.ncbi.nlm.nih.gov/pubmed/31367663"><b>Data on Drosophila clots and hemocyte morphologies using GFP-tagged secretory proteins: Prophenoloxidase and transglutaminase.</b></a><br>
 	Dziedziech A, Schmid M, <b>Arefin B</b>, Kienzle T, Krautz R, Theopold U.<br><i>
 	<b>Data Brief (2019).</b>
 	
