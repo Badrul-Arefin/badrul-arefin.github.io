@@ -6,7 +6,13 @@ permalink: /cv/
 ## A short CV 
 --- 
 <br>
-
+<ul>
+	<li>
+		<a href="EDUCATION & EMPLOYMENT>	<b>EDUCATION & EMPLOYMENT</b></a><br>
+  
+  </li><br>
+	<li>
+     
 ### EDUCATION & EMPLOYMENT
 
 #### University of Gothenburh (GU), Sweden					2019-present
