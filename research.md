@@ -8,8 +8,8 @@ title: Research
 		
 <ul>
 	<li>
-		<a href="1st Postdoc research">	<b>1st Postdoc research</b></a><br><b>Arefin B</b>, Parvin F, Bahrampour S, Stadler CB, Thor S.<br><i>
-		<b>Cell Reports (2019).</b></i>
+		<a href="1st Postdoc research">	<b>1st Postdoc research</b></a><br>The Notch signalling in the central nervous system (CNS) development.br><i>
+		Supervisor: Prof. Stefan Thor, Linköping University, Sweden.</i>
 
 
 
