@@ -26,36 +26,36 @@ title: Publications
 
 </li><br>
 <li>
-	<a href="https://www.ncbi.nlm.nih.gov/pubmed/30974174">	<div class="color-button">Insect hemolymph coagulation: Kinetics of classically and non-classically secreted clotting factors.</div></a>
+	<a href="https://www.ncbi.nlm.nih.gov/pubmed/30974174">	<b>Insect hemolymph coagulation: Kinetics of classically and non-classically secreted clotting factors.</b></a><br>
 	Schmid MR*, Dziedziech A*, <b>Arefin B</b>*, Kienzle T, Wang Z, Akhter M, Berka J, Theopold U.<br><i>
-	<b>Insect Biochem Mol Biol (2019).</b><br>
+	<b>Insect Biochem Mol Biol (2019).</b><br></i>
 	* equal contribution	
 	
  </li><br>
 	<li>
-	<a href="https://www.ncbi.nlm.nih.gov/pubmed/29884877">	<div class="color-button">Expression of the Shrimp wap gene in Drosophila elicits defense responses and protease inhibitory activity.</div></a>
+	<a href="https://www.ncbi.nlm.nih.gov/pubmed/29884877">	<b>Expression of the Shrimp wap gene in Drosophila elicits defense responses and protease inhibitory activity.</b></a><br>
 	Li D*, Luan Y*, Wang L*, Qi M*, Wang J, Xu J, <b>Arefin B</b>, Li M.<br><i>
-	<b>Scientific Reports (2018).</b><br>
+	<b>Scientific Reports (2018).</b><br></i>
 	* equal contribution
 	
 </li><br>
 	<li>
-	<a href="https://www.ncbi.nlm.nih.gov/pubmed/28631995">	<div class="color-button">Monitoring the effect of pathogenic nematodes on locomotion of Drosophila larvae.</div></a>
+	<a href="https://www.ncbi.nlm.nih.gov/pubmed/28631995">	<b>Monitoring the effect of pathogenic nematodes on locomotion of Drosophila larvae.</b></a><br>
 	Kunc M, <b>Arefin B</b>, Hyrsl P, Theopold U.<br><i>
-	<b>Fly (2017).</b>
+	<b>Fly (2017).</b></i><br>
 	
 </li><br>
 	<li>
-	<a href="https://www.ncbi.nlm.nih.gov/pubmed/28476910">	<div class="color-button">The Immune Phenotype of Three Drosophila Leukemia Models.</div></a>
+	<a href="https://www.ncbi.nlm.nih.gov/pubmed/28476910">	<b>The Immune Phenotype of Three Drosophila Leukemia Models.</b></a><br>
 	<b>Arefin B</b>, Kunc M, Krautz R, Theopold U.<br><i>
-	<b>G3: Genes, Genome, Genetics (2017).</b>
+	<b>G3: Genes, Genome, Genetics (2017).</b></i><br>
 	
 	
 </li><br>
 	<li>
-	<a href="https://www.ncbi.nlm.nih.gov/pubmed/26694862">	<div class="color-button">The Drosophila Chitinase-Like Protein IDGF3 Is Involved in Protection against Nematodes and in Wound Healing.</div></a>
+	<a href="https://www.ncbi.nlm.nih.gov/pubmed/26694862">	<b>The Drosophila Chitinase-Like Protein IDGF3 Is Involved in Protection against Nematodes and in Wound Healing.</b></a><br>
 	Kucerova L, Broz V, <b>Arefin B</b>, Maaroufi HO, Hurychova J, Strnad H, Zurovec M, Theopold U.<br><i>
-	<b>J Innate Immun (2016).</b>
+	<b>J Innate Immun (2016).</b></i><br>
 	
 	
 </li><br>
