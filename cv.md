@@ -13,7 +13,7 @@ permalink: /cv/
 - Postdoctoral Researcher, Cancer Biology)
 
 #### Linköping University (LiU), Sweden						2017-2019
-     - Postdoctoral Researcher, Developmental Neurobiology
+- Postdoctoral Researcher, Developmental Neurobiology
 
 #### Stockholm University (SU), Sweden						2010-2017
      - Postdoctoral Researcher, Molecular Biology				2016-2017
