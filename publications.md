@@ -22,8 +22,9 @@ title: Research
 	<li>
 	<a href="https://www.ncbi.nlm.nih.gov/pubmed/31289041">	<div class="color-button">PIP degron-stabilized Dacapo/p21Cip1 and mutations in ago act in an anti- versus pro-proliferative manner, yet both trigger an increase in Cyclin E levels.</div></a>
 	Bivik Stadler C*, <b>Arefin B</b>*, Ekman H, Thor S.<br><i>
-	<b>Development (2019).</b>
-	
+	<b>Development (2019).</b><br>
+	* equal contribution
+
 </li><br>
 <li>
 	<a href="https://www.ncbi.nlm.nih.gov/pubmed/30974174">	<div class="color-button">Insect hemolymph coagulation: Kinetics of classically and non-classically secreted clotting factors.</div></a>
