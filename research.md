@@ -8,8 +8,8 @@ title: Research
 		
 <ul>
 	<li>
-		<a href="1st Postdoc research">	<b>1st Postdoc research</b></a><br>The Notch signalling in the central nervous system (CNS) development.br><i>
-		Supervisor: Prof. Stefan Thor, Linköping University, Sweden.</i>
+		<a href="1st Postdoc research">	<b>1st Postdoc research</b></a><br><i>The Notch signalling in the central nervous system (CNS) development.</i>br>
+		Supervisor: Prof. Stefan Thor, Linköping University, Sweden.
 
 
 
