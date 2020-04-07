@@ -9,8 +9,8 @@ permalink: /cv/
 
 ### EDUCATION & EMPLOYMENT
 
-#### University of Gothenburg (GU), Sweden                              2019-present
-     - Postdoctoral Researcher, Cancer Biology
+<br><b>University of Gothenburg (GU), Sweden</b>                              <b>(2019-present)</b><br>
+- Postdoctoral Researcher, Cancer Biology
 
 #### Linköping University (LiU), Sweden						               2017-2019
      - Postdoctoral Researcher, Developmental Neurobiology
