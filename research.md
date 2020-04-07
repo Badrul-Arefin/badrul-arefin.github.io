@@ -3,6 +3,17 @@ layout: page
 permalink: /research/
 title: Research
 ---
+<h2>In detail</h2>
+<ul>
+	<li>
+		
+<ul>
+	<li>
+		<a href="https://www.ncbi.nlm.nih.gov/pubmed/31825841">	<b>Drosophila Neuroblast Selection Is Gated by Notch, Snail, SoxB, and EMT Gene Interplay.</b></a><br><b>Arefin B</b>, Parvin F, Bahrampour S, Stadler CB, Thor S.<br><i>
+		<b>Cell Reports (2019).</b></i>
+
+
+
 <h2>In Short</h2><br>
 
 <b>1st Postdoc research</b><br>
