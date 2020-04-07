@@ -9,13 +9,13 @@ permalink: /cv/
 
 ### EDUCATION & EMPLOYMENT
 
-<br><b>University of Gothenburg (GU), Sweden</b>                              <b>(2019-present)</b><br>
+<br><b>University of Gothenburg, Sweden</b>                              <b>(2019-present)</b><br>
 - Postdoctoral Researcher, Cancer Biology
 
-#### Linköping University (LiU), Sweden						               2017-2019
-     - Postdoctoral Researcher, Developmental Neurobiology
+<br><b>Linköping University, Sweden</b>						          <b>(2017-2019)</b><br>
+- Postdoctoral Researcher, Developmental Neurobiology
 
-#### Stockholm University (SU), Sweden						                  2010-2017
+#### Stockholm University, Sweden						                  2010-2017
      - Postdoctoral Researcher, Molecular Biology				            2016-2017
      - PhD in Molecular Biology							                     2012-2016
      - Licentiate (M. Phil. equivalent) in Molecular Biology	         2015
