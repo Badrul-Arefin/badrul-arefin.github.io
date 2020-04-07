@@ -5,11 +5,9 @@ title: Research
 ---
 <h2>In brief</h2>
 
-		
-<ul>
-	<li>
-		<a href="https://www.ncbi.nlm.nih.gov/pubmed/clipboard">	<b>1st Postdoc research</b></a><br>The Notch signalling in the central nervous system (CNS) development.<br>
-		Supervisor: Prof. Stefan Thor, Linköping University, Sweden.
+#### 1st Postdoc research
+<br>The Notch signalling in the central nervous system (CNS) development.
+<br>Supervisor: Prof. Stefan Thor, Linköping University, Sweden.
 
 
 		<a href="https://www.ncbi.nlm.nih.gov/pubmed">	<b>PhD research</b></a><br>Molecular characterization of the Drosophila responses towards nematodes.  
