@@ -8,7 +8,7 @@ title: Publications
 
 <ul>
 	<li>
-		<a href="https://www.ncbi.nlm.nih.gov/pubmed/31825841">	<div class="color-button">Drosophila Neuroblast Selection Is Gated by Notch, Snail, SoxB, and EMT Gene Interplay.</div></a><b>Arefin B</b>, Parvin F, Bahrampour S, Stadler CB, Thor S.<br><i>
+		<a href="https://www.ncbi.nlm.nih.gov/pubmed/31825841">	<b>Drosophila Neuroblast Selection Is Gated by Notch, Snail, SoxB, and EMT Gene Interplay.</b></a><b>Arefin B</b>, Parvin F, Bahrampour S, Stadler CB, Thor S.<br><i>
 	<b>Cell Reports (2019).</b>
   
   
