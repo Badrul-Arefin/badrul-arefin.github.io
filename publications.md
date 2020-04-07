@@ -18,7 +18,7 @@ title: Publications
 	
   </li><br>
 	<li>
-	<a href="https://www.ncbi.nlm.nih.gov/pubmed/31289041">	<b>PIP degron-stabilized Dacapo/p21Cip1 and mutations in ago act in an anti- versus pro-proliferative manner, yet both trigger an increase in Cyclin E levels.</b></a>
+	<a href="https://www.ncbi.nlm.nih.gov/pubmed/31289041">	<b>PIP degron-stabilized Dacapo/p21Cip1 and mutations in ago act in an anti- versus pro-proliferative manner, yet both trigger an increase in Cyclin E levels.</b></a><br>
 	Bivik Stadler C*, <b>Arefin B</b>*, Ekman H, Thor S.<br><i>
 	<b>Development (2019).</b><br></i>
 	* equal contribution
