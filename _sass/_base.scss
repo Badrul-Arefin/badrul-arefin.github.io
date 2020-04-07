@@ -108,7 +108,7 @@ a {
  */
 blockquote {
     color: $grey-color;
-    border-left: 4px solid $grey-color-light;
+    border-left: 4px solid $blue-color-light;
     padding-left: $spacing-unit / 2;
     font-size: 18px;
     letter-spacing: -1px;
@@ -206,7 +206,7 @@ pre {
  * Color button 
  */
 .color-button {
-    background: $gray-color-dark;
+    background: $blue-color-dark;
     border-style: none;
     border-radius: 10px;
     color: white;
@@ -217,7 +217,7 @@ pre {
     margin: 0px 5px 0 0;
     cursor: pointer;
     &:hover {
-        background: $gray-color-light;
+        background: $blue-color-light;
     }
 }
 
