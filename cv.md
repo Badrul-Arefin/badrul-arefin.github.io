@@ -3,9 +3,10 @@ layout: page
 title: CV
 permalink: /cv/
 ---
-## A short CV
+## A short CV ---
 --- 
-	
+
+
 ### EDUCATION & EMPLOYMENT
 
 #### University of Gothenburh (GU), Sweden					2019-present
