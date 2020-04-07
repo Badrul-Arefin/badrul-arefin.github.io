@@ -4,7 +4,6 @@ permalink: /publications/
 title: Publications
 ---
 
-<h2>Publications</h2>
 
 <ul>
 	<li>
