@@ -5,14 +5,14 @@ title: Research
 ---
 <h2>In brief</h2>
 
-<b> 1st Postdoc research</b>
-<br> - The Notch signalling in the central nervous system (CNS) development.
-<br> - Characterizing the stabilized version of the CDK inhibitor Dacapo and human p21 in the developing nervous system.
+<b> 1st Postdoc research</b><br> 
+- The Notch signalling in the central nervous system (CNS) development.<br>
+- Characterizing the stabilized version of the CDK inhibitor Dacapo and human p21 in the developing nervous system.
 <br>Supervisor: Prof. Stefan Thor, Linköping University, Sweden.
 
 
-<b>PhD research</b>
-<br> - Molecular characterization of the Drosophila responses towards nematodes.<br>Supervisor: Prof. Ulrich Theopold, Stockholm University, Sweden.<br> 
+<b>PhD research</b><br>
+- Molecular characterization of the Drosophila responses towards nematodes.<br>Supervisor: Prof. Ulrich Theopold, Stockholm University, Sweden.<br> 
 
 <b>Licentiate thesis</b><br>
 - The Drosophila defense towards nematodes and the contribution of danger signals. 
