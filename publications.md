@@ -9,18 +9,17 @@ title: Publications
 <ul>
 	<li>
 		<a href="https://www.ncbi.nlm.nih.gov/pubmed/31825841">	<b>Drosophila Neuroblast Selection Is Gated by Notch, Snail, SoxB, and EMT Gene Interplay.</b></a><br><b>Arefin B</b>, Parvin F, Bahrampour S, Stadler CB, Thor S.<br><i>
-	<b>Cell Reports (2019).</b>
+		<b>Cell Reports (2019).</b></i>
   
-  
-  <br>
+  </li><br>
 	<li>
 		<a href="https://www.ncbi.nlm.nih.gov/pubmed/31367663"><b>Data on Drosophila clots and hemocyte morphologies using GFP-tagged secretory proteins: Prophenoloxidase and transglutaminase.</b></a><br>
 	Dziedziech A, Schmid M, <b>Arefin B</b>, Kienzle T, Krautz R, Theopold U.<br><i>
-	<b>Data Brief (2019).</b>
+	<b>Data Brief (2019).</b></i>
 	
   </li><br>
 	<li>
-	<a href="https://www.ncbi.nlm.nih.gov/pubmed/31289041">	<div class="color-button">PIP degron-stabilized Dacapo/p21Cip1 and mutations in ago act in an anti- versus pro-proliferative manner, yet both trigger an increase in Cyclin E levels.</div></a>
+	<a href="https://www.ncbi.nlm.nih.gov/pubmed/31289041">	<b>PIP degron-stabilized Dacapo/p21Cip1 and mutations in ago act in an anti- versus pro-proliferative manner, yet both trigger an increase in Cyclin E levels.</b></a>
 	Bivik Stadler C*, <b>Arefin B</b>*, Ekman H, Thor S.<br><i>
 	<b>Development (2019).</b><br>
 	* equal contribution
