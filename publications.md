@@ -28,15 +28,15 @@ title: Publications
 <li>
 	<a href="https://www.ncbi.nlm.nih.gov/pubmed/30974174">	<b>Insect hemolymph coagulation: Kinetics of classically and non-classically secreted clotting factors.</b></a><br>
 	Schmid MR*, Dziedziech A*, <b>Arefin B</b>*, Kienzle T, Wang Z, Akhter M, Berka J, Theopold U.<br><i>
-	<b>Insect Biochem Mol Biol (2019).</b><br></i>
-	* equal contribution	
+	<b>Insect Biochem Mol Biol (2019).</b><br></i><br>
+	* equal contribution<br>
 	
  </li><br>
 	<li>
 	<a href="https://www.ncbi.nlm.nih.gov/pubmed/29884877">	<b>Expression of the Shrimp wap gene in Drosophila elicits defense responses and protease inhibitory activity.</b></a><br>
 	Li D*, Luan Y*, Wang L*, Qi M*, Wang J, Xu J, <b>Arefin B</b>, Li M.<br><i>
-	<b>Scientific Reports (2018).</b><br></i>
-	* equal contribution
+	<b>Scientific Reports (2018).</b><br></i><br>
+	* equal contribution<br>
 	
 </li><br>
 	<li>
@@ -60,23 +60,23 @@ title: Publications
 	
 </li><br>
 	<li>
-	<a href="https://www.ncbi.nlm.nih.gov/pubmed/26322507">	<div class="color-button">Apoptosis in Hemocytes Induces a Shift in Effector Mechanisms in the Drosophila Immune System and Leads to a Pro-Inflammatory State.</div></a>
+	<a href="https://www.ncbi.nlm.nih.gov/pubmed/26322507">	<b>Apoptosis in Hemocytes Induces a Shift in Effector Mechanisms in the Drosophila Immune System and Leads to a Pro-Inflammatory State.</b></a><br>
 	<b>Arefin B</b>, Kucerova L, Krautz R, Kranenburg H, Parvin F, Theopold U.<br><i>
-	<b>PLoS One (2015).</b>
+	<b>PLoS One (2015).</b></i><br>
 	
 	
 </li><br>
 	<li>
-	<a href="https://www.ncbi.nlm.nih.gov/pubmed/25071815">	<div class="color-button">Damage signals in the insect immune response.</div></a>
+	<a href="https://www.ncbi.nlm.nih.gov/pubmed/25071815">	<b>Damage signals in the insect immune response.</b></a><br>
 	Krautz R, <b>Arefin B</b>, Theopold U.<br><i>
-	<b>Front Plant Sci (2014).</b>	
+	<b>Front Plant Sci (2014).</b></i><br>	
 	
 	
 </li><br>
 	<li>
-	<a href="https://www.ncbi.nlm.nih.gov/pubmed/23988573">	<div class="color-button">Genome-wide transcriptional analysis of Drosophila larvae infected by entomopathogenic nematodes shows involvement of complement, recognition and extracellular matrix proteins.</div></a>
+	<a href="https://www.ncbi.nlm.nih.gov/pubmed/23988573">	<b>Genome-wide transcriptional analysis of Drosophila larvae infected by entomopathogenic nematodes shows involvement of complement, recognition and extracellular matrix proteins.</b></a><br>
 	<b>Arefin B</b>*, Kucerova L*, Dobes P, Markus R, Strnad H, Wang Z, Hyrsl P, Zurovec M, Theopold U.<br><i>
-	<b>J Innate Immun (2014).</b><br>
+	<b>J Innate Immun (2014).</b><br></i><br>
 	* equal contribution
 	
 	
