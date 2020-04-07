@@ -25,5 +25,5 @@ title: Research
 
 <b>Master Thesis</b><br> 
 - Analysis of the mechanism of bicoid mRNA transport and the function of a Bicoid isoform. 
-<br> Supervisor: Prof. Stefan Baumgartner. Developmental Biology, Lund University, Sweden.   
+<br> Supervisor: Prof. Stefan Baumgartner, Developmental Biology, Lund University, Sweden.   
 
