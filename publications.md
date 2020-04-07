@@ -46,29 +46,35 @@ title: Research
 	<li>
 	<a href="https://www.ncbi.nlm.nih.gov/pubmed/28476910">	<div class="color-button">The Immune Phenotype of Three Drosophila Leukemia Models.</div></a>
 	<b>Arefin B</b>, Kunc M, Krautz R, Theopold U.<br><i>
-	<b>G3: GENES, GENOMES, GENETICS (2018).</b>
+	<b>G3: Genes, Genome, Genetics (2018).</b>
 	
 	
 </li><br>
 	<li>
 	<a href="https://www.ncbi.nlm.nih.gov/pubmed/26694862">	<div class="color-button">The Drosophila Chitinase-Like Protein IDGF3 Is Involved in Protection against Nematodes and in Wound Healing.</div></a>
-	Kucerova L, Broz V, <b>Arefin B</b>, Maaroufi H, Hurychova J, Strnad H, Zurovec M, Theopold U.<br><i>
+	Kucerova L, Broz V, <b>Arefin B</b>, Maaroufi HO, Hurychova J, Strnad H, Zurovec M, Theopold U.<br><i>
 	<b>J Innate Immun (2016).</b>
 	
 	
+</li><br>
+	<li>
+	<a href="https://www.ncbi.nlm.nih.gov/pubmed/26322507">	<div class="color-button">Apoptosis in Hemocytes Induces a Shift in Effector Mechanisms in the Drosophila Immune System and Leads to a Pro-Inflammatory State.</div></a>
+	<b>Arefin B</b>, Kucerova L, Krautz R, Kranenburg H, Parvin F, Theopold U.<br><i>
+	<b>PLoS One (2015).</b>
 	
 	
+</li><br>
+	<li>
+	<a href="https://www.ncbi.nlm.nih.gov/pubmed/25071815">	<div class="color-button">Damage signals in the insect immune response.</div></a>
+	<b>Krautz R, <b>Arefin B</b>, Theopold U.<br><i>
+	<b>Front Plant Sci (2014).</b>	
 	
 	
-	
-	
-	
-	
-	
-	
-	
-	
-	
+</li><br>
+	<li>
+	<a href="https://www.ncbi.nlm.nih.gov/pubmed/23988573">	<div class="color-button">Genome-wide transcriptional analysis of Drosophila larvae infected by entomopathogenic nematodes shows involvement of complement, recognition and extracellular matrix proteins.</div></a>
+	<b>Arefin B</b>*, Kucerova L*, Dobes P, Markus R, Strnad H, Wang Z, Hyrsl P, Zurovec M, Theopold U.<br><i>
+	<b>J Innate Immun (2014).</b>	
 	
 	
 	
