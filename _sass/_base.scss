@@ -81,7 +81,7 @@ li {
  * Headings
  */
 h1, h2, h3, h4, h5, h6 {
-    font-weight: 200;
+    font-weight: 300;
 }
 
 
@@ -206,7 +206,7 @@ pre {
  * Color button 
  */
 .color-button {
-    background: $blue-color-dark;
+    background: $gray-color-dark;
     border-style: none;
     border-radius: 10px;
     color: white;
@@ -217,7 +217,7 @@ pre {
     margin: 0px 5px 0 0;
     cursor: pointer;
     &:hover {
-        background: $blue-color-light;
+        background: $gray-color-light;
     }
 }
 
