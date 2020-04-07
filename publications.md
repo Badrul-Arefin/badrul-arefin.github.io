@@ -43,13 +43,13 @@ title: Research
 	<li>
 	<a href="https://www.ncbi.nlm.nih.gov/pubmed/28631995">	<div class="color-button">Monitoring the effect of pathogenic nematodes on locomotion of Drosophila larvae.</div></a>
 	Kunc M, <b>Arefin B</b>, Hyrsl P, Theopold U.<br><i>
-	<b>Fly (2018).</b>
+	<b>Fly (2017).</b>
 	
 </li><br>
 	<li>
 	<a href="https://www.ncbi.nlm.nih.gov/pubmed/28476910">	<div class="color-button">The Immune Phenotype of Three Drosophila Leukemia Models.</div></a>
 	<b>Arefin B</b>, Kunc M, Krautz R, Theopold U.<br><i>
-	<b>G3: Genes, Genome, Genetics (2018).</b>
+	<b>G3: Genes, Genome, Genetics (2017).</b>
 	
 	
 </li><br>
