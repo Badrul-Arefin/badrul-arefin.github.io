@@ -4,6 +4,7 @@ title: CV
 permalink: /cv/
 ---
 ## A short CV
+--- 
 	
 ### EDUCATION & EMPLOYMENT
 
