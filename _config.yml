@@ -1,1 +1,24 @@
-theme: jekyll-theme-architect
+# Site settings
+title: Badrul Arefin
+general_email: barussel01@gmail.com
+academic_email: badrul.arefin@gu.se
+
+description: > # this means to ignore newlines until "baseurl:"
+  
+#baseurl: "badrul-arefin.github.io" # the subpath of your site, e.g. /blog/
+
+url: "https://badrul-arefin.github.io" # the base hostname & protocol for your site
+
+# twitter_username: badrul_arefin
+github_username: badrul-arefin
+linkedin_username: badrul-arefin-32b47629
+# feel free to add other links here; you will have to add the SVG icon in _layouts/footer.html
+
+# Build settings
+markdown: kramdown
+
+kramdown:
+  math_engine: mathjax
+
+# Other options
+permalink: blog/:year/:month/:title
