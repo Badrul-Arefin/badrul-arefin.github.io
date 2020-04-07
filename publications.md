@@ -21,22 +21,22 @@ title: Publications
 	<li>
 	<a href="https://www.ncbi.nlm.nih.gov/pubmed/31289041">	<b>PIP degron-stabilized Dacapo/p21Cip1 and mutations in ago act in an anti- versus pro-proliferative manner, yet both trigger an increase in Cyclin E levels.</b></a>
 	Bivik Stadler C*, <b>Arefin B</b>*, Ekman H, Thor S.<br><i>
-	<b>Development (2019).</b><br>
+	<b>Development (2019).</b><br></i>
 	* equal contribution
 
 </li><br>
 <li>
 	<a href="https://www.ncbi.nlm.nih.gov/pubmed/30974174">	<b>Insect hemolymph coagulation: Kinetics of classically and non-classically secreted clotting factors.</b></a><br>
 	Schmid MR*, Dziedziech A*, <b>Arefin B</b>*, Kienzle T, Wang Z, Akhter M, Berka J, Theopold U.<br><i>
-	<b>Insect Biochem Mol Biol (2019).</b><br></i><br>
-	* equal contribution<br>
+	<b>Insect Biochem Mol Biol (2019).</b><br></i>
+	* equal contribution
 	
  </li><br>
 	<li>
 	<a href="https://www.ncbi.nlm.nih.gov/pubmed/29884877">	<b>Expression of the Shrimp wap gene in Drosophila elicits defense responses and protease inhibitory activity.</b></a><br>
 	Li D*, Luan Y*, Wang L*, Qi M*, Wang J, Xu J, <b>Arefin B</b>, Li M.<br><i>
 	<b>Scientific Reports (2018).</b><br></i><br>
-	* equal contribution<br>
+	* equal contribution
 	
 </li><br>
 	<li>
