@@ -46,10 +46,14 @@ title: Research
 	<li>
 	<a href="https://www.ncbi.nlm.nih.gov/pubmed/28476910">	<div class="color-button">The Immune Phenotype of Three Drosophila Leukemia Models.</div></a>
 	<b>Arefin B</b>, Kunc M, Krautz R, Theopold U.<br><i>
-	<b>G3</b> (Bethesda) <b>(2018).</b>
+	<b>G3: GENES, GENOMES, GENETICS (2018).</b>
 	
 	
-	
+</li><br>
+	<li>
+	<a href="https://www.ncbi.nlm.nih.gov/pubmed/28476910">	<div class="color-button">The Immune Phenotype of Three Drosophila Leukemia Models.</div></a>
+	<b>Arefin B</b>, Kunc M, Krautz R, Theopold U.<br><i>
+	<b>G3: GENES, GENOMES, GENETICS (2018).</b>
 	
 	
 	
