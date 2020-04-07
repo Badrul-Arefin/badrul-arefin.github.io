@@ -7,9 +7,9 @@ permalink: /cv/
 --- 
 <br>
 
-### EDUCATION & EMPLOYMENT
+### [EDUCATION & EMPLOYMENT
 
-#### University of Gothenburh (GU), Sweden					2019-present
+#### - University of Gothenburh, Sweden</b>					<b>2019-present</b>
      - Postdoctoral Researcher, Cancer Biology)
 
 #### Linköping University (LiU), Sweden						2017-2019
