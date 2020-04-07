@@ -28,7 +28,7 @@ title: Research
 	<li>
 	<a href="https://www.ncbi.nlm.nih.gov/pubmed/30974174">	<div class="color-button">Insect hemolymph coagulation: Kinetics of classically and non-classically secreted clotting factors.</div></a>
 	Schmid MR*, Dziedziech A*, Arefin B*, Kienzle T, Wang Z, Akhter M, Berka J, Theopold U.<br><i>
-	<b>Insect Biochem Mol Biol. (2019).</b>	
+	<b>Insect Biochem Mol Biol (2019).</b>	
 	
 	
 	
