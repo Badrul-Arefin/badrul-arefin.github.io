@@ -15,4 +15,4 @@ During my 1st postdoc, I was involved in a set of studies that take a comprehens
 
 <h2>Bio</h2>
 <ul>
-<li> I was born and raised in Bangladesh. I moved to Sweden in Aug. 2008 to pursue to master studies in Biotechnology. Normally I try to run 2-3 times a week or do some cross-training exercises to stay fit. Other than that, I spend time reading newspaper and watching fun stuffs in the internet.
+<li> I was born and raised in Bangladesh. I moved to Sweden in Aug. 2008 to pursue to master studies in Biotechnology. Normally I try to run 2-3 times a week or do some cross-training exercises to stay fit. In my spare time, I spend time reading newspaper and watching fun stuffs in the internet.
