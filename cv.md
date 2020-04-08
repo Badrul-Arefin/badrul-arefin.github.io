@@ -25,12 +25,10 @@ permalink: /cv/
 - M.Sc. in Biotechnology
 
 <br><b>Khulna University, Bangladesh</b>						    <b>(2001-2006)</b><br>
-- B.Sc. in Biotechnology and Genetic Engineering<br>
+- B.Sc. in Biotechnology and Genetic Engineering<br><br>
 
 ### TEACHING EXPERIENCE/LAB SUPERVISION AT STOCKHOLM UNIVERSITY
-
-<br>
- - Molecular Cell Biology course lab, undergraduate level, 64 students, 2015, 2014, 2013 & 2012.<br>
+- Molecular Cell Biology course lab, undergraduate level, 64 students, 2015, 2014, 2013 & 2012.<br>
 - Molecular Genetics course lab, master’s level, 4-6 persons, designed and running lab for 3.5 weeks and grading the lab reports, 2014 & 2013.<br>
 - I supervised 13 persons from Sweden and abroad on a daily basis from various levels including exchange PhD students, guest researcher, diploma project and master thesis students.<br>
 - Completed a teaching course at Stockholm University: Introduction to teaching for postgraduate and postdoctoral researchers, 2015.<br>
