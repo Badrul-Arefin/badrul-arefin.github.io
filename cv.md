@@ -90,7 +90,8 @@ membrane proteins, and immunostaining
 - Drosophila tissue dissection including embryonic CNS<br><br>
 
 ### GRANTS/SCHOLARSHIPS
-- 3 years postdoctoral grants from Cancer Foundation (success rate- 12.28%)
+- 3 years postdoctoral grants from <a href="https://www.cancerfonden.se/forskning/for-forskare/samtliga-anslagsbeslut">
+  Cancerfonden</a> (success rate- 12.28%).
 - Received a scholarship for a year before starting the doctoral program.
 - Travel grant from Jubilee donation, K & A Wallenberg Foundation, Sweden. 
 - Travel grant from Stockholm University. 
