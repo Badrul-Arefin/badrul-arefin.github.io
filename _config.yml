@@ -12,7 +12,7 @@ description: > # this means to ignore newlines until "baseurl:"
 
 url: "https://badrul-arefin.github.io" # the base hostname & protocol for your site
 
-#twitter_username:badrul_arefin
+#twitter_username:jekyllrb
 github_username:badrul-arefin
 linkedin_username:badrul-arefin-32b47629
 # feel free to add other links here; you will have to add the SVG icon in _layouts/footer.html
