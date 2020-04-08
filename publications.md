@@ -76,10 +76,10 @@ title: Publications
 	<a href="https://www.ncbi.nlm.nih.gov/pubmed/23988573">	<b>Genome-wide transcriptional analysis of Drosophila larvae infected by entomopathogenic nematodes shows involvement of complement, recognition and extracellular matrix proteins.</b></a><br>
 	<b>Arefin B</b>*, Kucerova L*, Dobes P, Markus R, Strnad H, Wang Z, Hyrsl P, Zurovec M, Theopold U.<br><i>
 	<b>J Innate Immun (2014).</b></i> <b>(Journal cover page)</b><br>
-	* equal contribution<br>
+	* equal contribution<br><br>
 	
 <b> Invited Book chapter (Edited by Dr. François Guillemot and Prof. Kenneth J. Campbell)</b><br>
 </li><br>
 	<li>
-	<a href="https://www.ncbi.nlm.nih.gov/pubmed/23988573">	<b>Development of the Drosophila embryonic CNS: From neuroectoderm to unique neurons and glia.<b>Arefin B.</b>, Bahrampour S., Cobeta I.M., Curt J.R., Yaghmaeian B.S., Baumgardt M., Benito-Sipos J., and Thor S.</b></a><br><b>(In Press).</b> (Equal contribution except two last authors).	
+	<a href="https://www.ncbi.nlm.nih.gov/pubmed/23988573">	<b>Development of the Drosophila embryonic CNS: From neuroectoderm to unique neurons and glia.</b></a><br><b>Arefin B.</b>, Bahrampour S., Cobeta I.M., Curt J.R., Yaghmaeian B.S., Baumgardt M., Benito-Sipos J., and Thor S. <b> (In Press).</b> (Equal contribution except two last authors).	
 	
