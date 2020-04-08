@@ -9,7 +9,7 @@ For the last 10+ years, my research revolves around different areas namely molec
 
 Please follow the link if you would like to know more about my research in plain english.
 <ul>
-	<li><a href="about.pdf">About my research in plain english</a></li>
+	<li><a href="/About/about.pdf">About my research in plain english</a></li>
 </ul>
 
 <h2>Bio</h2>
