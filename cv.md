@@ -44,6 +44,14 @@ permalink: /cv/
 - Oral presentation at the crossroads between insect immunology, physiology and ecology, Brno, Czech Republic. Sept. 13-16, 2015.
 - Oral presentation: Selected for talk (accommodate only 10-15%) at the 56th Annual Drosophila Research Conference (ADRC, the biggest Drosophila research conference), Chicago, USA, March 4-8, 2015.<br><br>
 
+### TALKS (IN SWEDEN)
+- At PhD final year seminar series of the department of Molecular Biosciences, Stockholm University, May 19th, 2016.
+- In Infection and immunity seminar series, Department of Molecular Biosciences, November 2014.
+- At the department of Molecular Biology and Functional Genomics (departmental talk), Autumn semester, 2012.
+- On PhD day at Stockholm University for Biology Section.December 2012.
+
+
+
 ### SKILLS/METHODOLOGY (SELECTED)
 - Single cell RNA-seq (scRNA-seq) analysis
 - ChIP-seq and DamID-seq data analysis
