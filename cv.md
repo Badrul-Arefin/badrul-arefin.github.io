@@ -71,8 +71,8 @@ permalink: /cv/
 - Familiar with Unix/Linux command (completed a doctoral and a MOOC course with this command).<br><br>
 
 ### OTHERS
-- <b>Journal featuring our research:</b> Journal of Innate Immunity made the front page featuring our research article, published in those issues (vol. 6, No. 2, 2014 & Vol. 8, No. 2, 2016).
-- <b> Mentoring:</b>I was involved in a group of 4 PhD students mentoring 20 students (medical, dental and biology) from Saudi Arabia during their 2 weeks stay in Stockholm for the ‘medical and molecular biosciences’ course, June 2014.<br><br>
+- <b> Journal featuring our research:</b> Journal of Innate Immunity made the front page featuring our research article, published in those issues (vol. 6, No. 2, 2014 & Vol. 8, No. 2, 2016).
+- <b> Mentoring:</b> I was involved in a group of 4 PhD students mentoring 20 students (medical, dental and biology) from Saudi Arabia during their 2 weeks stay in Stockholm for the ‘medical and molecular biosciences’ course, June 2014.<br><br>
 
 ### SKILLS/METHODOLOGY (SELECTED)
 - Single cell RNA-seq (scRNA-seq) analysis
