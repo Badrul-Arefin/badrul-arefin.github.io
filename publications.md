@@ -78,6 +78,8 @@ title: Publications
 	<b>J Innate Immun (2014).</b></i> <b>(Journal cover page)</b><br>
 	* equal contribution<br>
 	
-<br><b> Invited Book chapter (Edited by Dr. François Guillemot and Prof. Kenneth J. Campbell)</b><br>
-<b>Arefin B.</b>, Bahrampour S., Cobeta I.M., Curt J.R., Yaghmaeian B.S., Baumgardt M., Benito-Sipos J., and Thor S. Development of the Drosophila embryonic CNS: From neuroectoderm to unique neurons and glia. (In Press). (Equal contribution except two last authors).	
+<b> Invited Book chapter (Edited by Dr. François Guillemot and Prof. Kenneth J. Campbell)</b><br>
+</li><br>
+	<li>
+	<a href="https://www.ncbi.nlm.nih.gov/pubmed/23988573">	<b>Development of the Drosophila embryonic CNS: From neuroectoderm to unique neurons and glia.<b>Arefin B.</b>, Bahrampour S., Cobeta I.M., Curt J.R., Yaghmaeian B.S., Baumgardt M., Benito-Sipos J., and Thor S.</b></a><br><b>(In Press).</b> (Equal contribution except two last authors).	
 	
