@@ -47,10 +47,32 @@ permalink: /cv/
 ### TALKS (IN SWEDEN)
 - At PhD final year seminar series of the department of Molecular Biosciences, Stockholm University, May 19th, 2016.
 - In Infection and immunity seminar series, Department of Molecular Biosciences, November 2014.
-- At the department of Molecular Biology and Functional Genomics (departmental talk), Autumn semester, 2012.
-- On PhD day at Stockholm University for Biology Section.December 2012.
+- At the department of Molecular Biology and Functional Genomics, Autumn semester, 2012.
+- On PhD day at Stockholm University for Biology Section.December 2012.<br><br>
 
+### POSTER PRESENTATION (INTERNATIONAL)
+- At the allied genetics conference (TAGC). All animal model organisms altogether in 2016 to celebrate 100 years of research in genetics. July 13-17, 2016, Orlando, Florida, USA.
+- At European Drosophila Research Conference (EDRC), Heidelberg, Germany. September 9-12, 2015.
+- At ESF-EMBO Symposium: Integrated Insect Immunology: From Basic Biology to Environmental Applications, Pultusk, Poland. September 23-28, 2013.<br><br>
 
+### POSTER PRESENTATION (IN SWEDEN)
+- At departmental (Molecular Biosciences) retreat, Stockholm University, December 2016 & 2014 (2 times).
+- On PhD day at Stockholm University for Biology Section.December 2015 & 2013 (2 times).<br><br>
+
+### OTHER CONFERENCES/WORKSHOPS
+- Wenner-Gren Foundations International symposium: “Host-microbe interactions in the gut: from model systems to human disease”. Wenner-Gren Center, Stockholm, June 15-18, 2016.
+- International Society for Stem Cell Research (ISSCR) conference, Stockholm, Sweden. June 24-27, 2015.
+- High Throughput Biology Symposium, Karolinska Institute, Stockholm, Sweden.June 3-4, 2013.
+- Workshop on Phylogenetics, Swedish Museum of Natural History, Stockholm, Sweden. June 10-14, 2013.
+- Sample preparations for Super-resolution microscopy, SciLifeLab, Stockholm.March 27, 2014.<br><br>
+
+### OTHER SKILSS
+- Lasergene DNASTAR (I used it for cloning, sequence analysis and assembly), ImageJ (Image processing software, e.g., Confocal Images), Canvas, Clone Manager, Serial Cloner, Adobe Photoshop & Illustrator. 
+- Familiar with Unix/Linux command (completed a doctoral and a MOOC course with this command).<br><br>
+
+### OTHERS
+- <b>Journal featuring our research:</b> Journal of Innate Immunity made the front page featuring our research article, published in those issues (vol. 6, No. 2, 2014 & Vol. 8, No. 2, 2016).
+- <b> Mentoring:</b>I was involved in a group of 4 PhD students mentoring 20 students (medical, dental and biology) from Saudi Arabia during their 2 weeks stay in Stockholm for the ‘medical and molecular biosciences’ course, June 2014.<br><br>
 
 ### SKILLS/METHODOLOGY (SELECTED)
 - Single cell RNA-seq (scRNA-seq) analysis
