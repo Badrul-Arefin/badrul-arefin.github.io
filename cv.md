@@ -57,6 +57,14 @@ membrane proteins, and immunostaining
 - Extensive microscopy including stereo, epi-fluorescence, Cell Observer, confocal and TIRF microscopy
 - Radiation biology
 - Nematode infection
-- Drosophila tissue dissection including embryo CNS dissection
+- Drosophila tissue dissection including embryonic CNS<br><br>
+
+### GRANTS/SCHOLARSHIPS
+- 3 years postdoctoral grants from Cancer Foundation (success rate- 12.28%)
+- Received a scholarship for a year before starting the doctoral program.
+- Travel grant from Jubilee donation, K & A Wallenberg Foundation, Sweden. 
+- Travel grant from Stockholm University. 
+- Travel grant from the Department of Molecular Biosciences,Stockholm University. 
+- Received 50% grant of the conference fee for ESF-EMBO Symposium: 400 Euro
 
 
