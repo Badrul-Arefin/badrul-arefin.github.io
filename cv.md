@@ -3,10 +3,6 @@ layout: page
 title: CV
 permalink: /cv/
 ---
-## A short CV 
---- 
-<br>
-
 ### EDUCATION & EMPLOYMENT
 
 <br><b>University of Gothenburg, Sweden</b>                              <b>(2019-present)</b><br>
@@ -39,5 +35,15 @@ permalink: /cv/
 - PLOS ONE
 - Fly
 - Insect Science	
-- Insect Molecular Biology
+- Insect Molecular Biology<br><br>
+
+
+### TALKS (INTERNATIONAL)
+- At the Gurdon Institute, University of Cambridge, UK, Feb 5th, 2019. Host: Prof. Daniel St Johnston.
+
+- At the Global Health Institute, Swiss Federal Institute of Technology (EPFL), Lausanne, Switzerland, September 5th, 2016. Host: Prof. Bruno Lemaitre
+
+- Oral presentation at the crossroads between insect immunology, physiology and ecology, Brno, Czech Republic. Sept. 13-16, 2015.
+
+- Oral presentation: Selected for talk (accommodate only 10-15%) at the 56th Annual Drosophila Research Conference (ADRC, the biggest Drosophila research conference), Chicago, USA, March 4-8, 2015.
 
