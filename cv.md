@@ -65,6 +65,6 @@ membrane proteins, and immunostaining
 - Travel grant from Jubilee donation, K & A Wallenberg Foundation, Sweden. 
 - Travel grant from Stockholm University. 
 - Travel grant from the Department of Molecular Biosciences,Stockholm University. 
-- Received 50% grant of the conference fee for ESF-EMBO Symposium: 400 Euro
+- Received 50% grant of the conference fee for ESF-EMBO Symposium.
 
 
