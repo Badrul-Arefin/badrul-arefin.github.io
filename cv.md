@@ -15,11 +15,11 @@ permalink: /cv/
 <br><b>Linköping University, Sweden</b>						        <b>(2017-2019)</b><br>
 - Postdoctoral Researcher, Developmental Neurobiology
 
-<br><b>Stockholm University, Sweden</b						        <b>(2010-2017)</b><br>
-- Postdoctoral Researcher, Molecular Biology				              2016-2017
-- PhD in Molecular Biology							              2012-2016
-- Licentiate (M. Phil. equivalent) in Molecular Biology	              2015
-- Stipend research student in Developmental Biology		              2010-2012
+<br><b>Stockholm University, Sweden</b>						        <b>(2010-2017)</b><br>
+- Postdoctoral Researcher, Molecular Biology:2016-2017
+- PhD in Molecular Biology: 2012-2016
+- Licentiate (M. Phil. equivalent) in Molecular Biolog: 2015
+- Stipend research student in Developmental Biology: 2010-2012
 
 <br><b>Lund University, Sweden</b>						              <b>(2008-2010)</b><br>
      - M.Sc. in Biotechnology
