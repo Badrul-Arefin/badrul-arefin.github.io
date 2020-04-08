@@ -79,5 +79,5 @@ title: Publications
 	* equal contribution<br><br>
 	
 ### Invited Book chapter (Edited by Dr. François Guillemot and Prof. Kenneth J. Campbell)
-- Arefin B., Bahrampour S., Cobeta I.M., Curt J.R., Yaghmaeian B.S., Baumgardt M., Benito-Sipos J., and Thor S. Development of the Drosophila embryonic CNS: From neuroectoderm to unique neurons and glia. (In Press). (Equal contribution except two last authors)	
+    - Arefin B., Bahrampour S., Cobeta I.M., Curt J.R., Yaghmaeian B.S., Baumgardt M., Benito-Sipos J., and Thor S. Development of the Drosophila embryonic CNS: From neuroectoderm to unique neurons and glia. (In Press). (Equal contribution except two last authors)	
 	
