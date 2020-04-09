@@ -8,4 +8,4 @@ For the last 10+ years, my research revolves around different areas namely molec
 
 <h2>Bio</h2>
 <ul>
-<li> I was born and raised in Bangladesh. I moved to Sweden in Aug. 2008 to pursue to master studies in Biotechnology. Normally I try to be active physically, so I go for running 2-3 times a week or do some cross-training exercises. In my spare time, I spend time reading newspaper and watching fun stuffs in the internet.
+<li> I was born and raised in Bangladesh. I moved to Sweden in Aug. 2008 to pursue master studies in Biotechnology. Normally I try to be active physically, so I go for running 2-3 times a week or do some cross-training exercises. In my spare time, I spend time reading newspaper and watching fun stuffs in the internet.
