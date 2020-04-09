@@ -3,9 +3,9 @@ layout: page
 permalink: /research/
 title: Research
 ---
-<p> Here I listed the projects title just to give you a glimpse of what research I was involved in. Please follow the link to know more about my research in plain words. 
+Here I listed the projects title just to give you a glimpse of what research I was involved in. Please follow the link to know more about my research in plain words. 
   
-<p> Please follow the link if you would like to know more about my research in plain english.
+Please follow the link if you would like to know more about my research in plain english.
 <ul>
 	<li><a href="/About/about.pdf">About my research in plain english</a></li>
 </ul>
