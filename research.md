@@ -18,7 +18,7 @@ To unravel the molecular network that orchestrates the central nervous system (C
 
 
 <b>PhD research</b><br>
-- Molecular characterization of the Drosophila responses towards nematodes.<br>Supervisor: Prof. Ulrich Theopold, Stockholm University, Sweden.<br> To know more, please click here <a href="https://sites.google.com/view/badrularefin/research">here.</a><br>
+- Molecular characterization of the Drosophila responses towards nematodes.<br>Supervisor: Prof. Ulrich Theopold, Stockholm University, Sweden.<br> To know more, please click <a href="https://sites.google.com/view/badrularefin/research">here.</a><br>
 
 <b>Licentiate thesis</b><br>
 - The Drosophila defense towards nematodes and the contribution of danger signals. 
