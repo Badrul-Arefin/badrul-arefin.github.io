@@ -8,8 +8,7 @@ Here I listed the projects title just to give you a glimpse of what research I w
 Please follow the link if you would like to know more about my research in plain english.
 <ul>
 	<li><a href="/About/about.pdf">About my research in plain english</a></li>
-</ul><br><br>
-
+</ul><br>
 
 <h2>In brief</h2>
 
