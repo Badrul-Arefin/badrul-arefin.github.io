@@ -82,5 +82,5 @@ title: Publications
 (Edited by Dr. François Guillemot and Prof. Kenneth J. Campbell).
 </li><br>
 	<li>
-	<a href="https://www.ncbi.nlm.nih.gov/pubmed/23988573">	<b>Development of the Drosophila embryonic CNS: From neuroectoderm to unique neurons and glia.</b></a><br><b>Arefin B.</b>, Bahrampour S., Cobeta I.M., Curt J.R., Yaghmaeian B.S., Baumgardt M., Benito-Sipos J., and Thor S. <b><br> (In Press).</b> <br> * equal contribution except two last authors	
+	<a href="https://www.ncbi.nlm.nih.gov/pubmed/23988573">	<b>Development of the Drosophila embryonic CNS: From neuroectoderm to unique neurons and glia.</b></a><br><b>Arefin B*.</b>, Bahrampour S*., Cobeta I.M*., Curt J.R*., Yaghmaeian B.S*., Baumgardt M*., Benito-Sipos J., and Thor S. <b><br> (In Press).</b> <br> * equal contribution	
 	
