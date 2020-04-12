@@ -12,9 +12,8 @@ Here I listed the projects title just to give you a glimpse of what research I w
 <b> 1st Postdoc research</b><br> 
 To unravel the molecular network that orchestrates the central nervous system (CNS) formation during embryogenesis. I was involved in a set of studies that take a comprehensive molecular and genetic approach aimed at understanding the connection between Notch and proliferation control in the Drosophila central nervous system (CNS). More will be added later...
 <br>
-- The Notch signalling in the central nervous system (CNS) development.<br>
-- Characterizing the stabilized version of the CDK inhibitor Dacapo and human p21 in the developing nervous system.
-<br>Supervisor: Prof. Stefan Thor, Linköping University, Sweden.
+- The Notch signalling in the central nervous system (CNS) development. <a href="https://www.ncbi.nlm.nih.gov/pubmed/31825841">Link</a> <br>
+- Characterizing the stabilized version of the CDK inhibitor Dacapo and human p21 in the developing nervous system. <a href="https://www.ncbi.nlm.nih.gov/pubmed/31289041">Link</a><br>Supervisor: Prof. Stefan Thor, Linköping University, Sweden.
 
 
 <b>PhD research</b><br>
