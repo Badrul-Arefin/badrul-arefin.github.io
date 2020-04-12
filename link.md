@@ -3,6 +3,8 @@ layout: page
 permalink: /link/
 title: Link
 ---
+<b> Some useful links</b><br>
+
 <a href="http://flybase.org/">FlyBase</a><br>
 
 <a href="http://www.genestory.org/projectDev.html">Conversations in Genetics</a><br>
