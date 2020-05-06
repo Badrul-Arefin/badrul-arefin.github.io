@@ -92,6 +92,7 @@ membrane proteins, and immunostaining
 ### GRANTS/SCHOLARSHIPS
 - 3 years postdoctoral grants from <a href="https://www.cancerfonden.se/forskning/for-forskare/samtliga-anslagsbeslut">
   Cancerfonden</a> (success rate- 12.28%).
+- 2 years postdoctoral grants from <a href="https://www.barncancerfonden.se/for-forskare/forskningsanslag/beviljade- forskningsanslag-och-tjanster/">Barncancerfonden</a>.
 - Received a scholarship for a year before starting the doctoral program.
 - Travel grant from Jubilee donation, K & A Wallenberg Foundation, Sweden. 
 - Travel grant from Stockholm University. 
