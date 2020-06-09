@@ -79,8 +79,12 @@ title: Publications
 	* equal contribution<br><br>
 
 <h2> Invited Book Chapter</h2>
-(Edited by Dr. François Guillemot and Prof. Kenneth J. Campbell).
+
+Book: Patterning and Cell Type Specification in the Developing CNS and PNS, 2nd Edition. <br>
+
+(Edited by John Rubenstein, Bin Chen, Pasko Rakic and Kenneth Y. Kwan)
+
 </li><br>
 	<li>
-	<a href="https://www.ncbi.nlm.nih.gov/pubmed/23988573">	<b>Development of the Drosophila embryonic CNS: From neuroectoderm to unique neurons and glia.</b></a><br><b>Arefin B.</b>, Bahrampour S., Cobeta I.M., Curt J.R., Yaghmaeian B.S., Baumgardt M., Benito-Sipos J., and Thor S. <b><br> (In Press).</b> <br> 	
+	<a href="https://www.sciencedirect.com/science/article/pii/B9780128144053000254"> <b>Development of the Drosophila embryonic CNS: From neuroectoderm to unique neurons and glia.</b></a><br><b>Arefin B.</b>, Bahrampour S., Cobeta I.M., Curt J.R., Yaghmaeian B.S., Baumgardt M., Benito-Sipos J., and Thor S. <b><br> (2020).</b> <br> 	
 	
