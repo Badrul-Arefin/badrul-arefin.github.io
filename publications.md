@@ -82,7 +82,7 @@ title: Publications
 
 </li><br>
 	<li>
-	<a href="https://www.sciencedirect.com/science/article/pii/B9780128144053000254"> <b>Development of the Drosophila embryonic CNS: From neuroectoderm to unique neurons and glia.</b></a><br><b>Arefin B.</b>, Bahrampour S., Cobeta I.M., Curt J.R., Yaghmaeian B.S., Baumgardt M., Benito-Sipos J., and Thor S. <b><br> <a href="https://www.sciencedirect.com/book/9780128144053/patterning-and-cell-type-specification-in-the-developing-cns-and-pns"> <b>Book: Patterning and Cell Type Specification in the Developing CNS and PNS, 2nd Edition (2020).</b> </a><br><i>
+	<a href="https://www.sciencedirect.com/science/article/pii/B9780128144053000254"> <b>Development of the Drosophila embryonic CNS: From neuroectoderm to unique neurons and glia.</b></a><br><b>Arefin B.</b>, Bahrampour S., Cobeta I.M., Curt J.R., Yaghmaeian B.S., Baumgardt M., Benito-Sipos J., and Thor S. <b><br> <a href="https://www.sciencedirect.com/book/9780128144053/patterning-and-cell-type-specification-in-the-developing-cns-and-pns"> <b>Book: Patterning and Cell Type Specification in the Developing CNS and PNS, 2nd Edition (2020).</b> </a><br><i><br>
 	
 (Edited by John Rubenstein, Bin Chen, Pasko Rakic and Kenneth Y. Kwan)</i>	
 	
