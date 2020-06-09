@@ -79,8 +79,7 @@ title: Publications
 	* equal contribution<br><br>
 
 <h2> Invited Book Chapter</h2>
-
-Book: Patterning and Cell Type Specification in the Developing CNS and PNS, 2nd Edition. <br>
+<a href="https://www.sciencedirect.com/book/9780128144053/patterning-and-cell-type-specification-in-the-developing-cns-and-pns"> <b>Book: Patterning and Cell Type Specification in the Developing CNS and PNS, 2nd Edition.</b> <br>
 
 (Edited by John Rubenstein, Bin Chen, Pasko Rakic and Kenneth Y. Kwan)
 
