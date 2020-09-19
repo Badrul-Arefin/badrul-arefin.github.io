@@ -9,6 +9,10 @@ Here I listed the projects title just to give you a glimpse of what research I w
 </ul><br>
 <h2>In brief</h2>
 
+<b> 2nd Postdoc research</b><br> 
+Compresensive single cell analysis and functional validation of ALK-driven neuroblastoma models. I added little description regarding my work on the home page, so please see there. <a href="https://badrul-arefin.github.io/">Link</a> <br>Supervisor: Prof. Ruth Palmer, Sahlgrenska Academy, Gothenburg University, Sweden. <br>
+
+
 <b> 1st Postdoc research</b><br> 
 To unravel the molecular network that orchestrates the central nervous system (CNS) formation during embryogenesis. I was involved in a set of studies that take a comprehensive molecular and genetic approach aimed at understanding the connection between Notch and proliferation control in the Drosophila central nervous system (CNS). More will be added later...
 <br>
