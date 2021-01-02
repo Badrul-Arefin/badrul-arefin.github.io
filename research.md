@@ -36,7 +36,7 @@ To unravel the molecular network that orchestrates the central nervous system (C
 - Analysis of the mechanism of bicoid mRNA transport and the function of a Bicoid isoform. 
 <br> Supervisor: Prof. Stefan Baumgartner, Developmental Biology, Lund University, Sweden.   
 
-<b>Master Project</b><br> 
+<b>Project work</b><br> 
 - A new tool for chromosomal integration into the yeast S. cerevisiae.
 <br> Supervisor: Dr. Maurizio Bettiga, Applied Microbiology, Lund University, Sweden.
 
