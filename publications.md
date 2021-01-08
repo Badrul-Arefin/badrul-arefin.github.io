@@ -6,6 +6,14 @@ title: Publications
 
 
 <ul>
+
+<li>
+		<a href="https://pubmed.ncbi.nlm.nih.gov/33411331"><b>ALK ligand ALKAL2 potentiates MYCN-driven neuroblastoma in the absence of ALK mutation.</b></a><br>
+	Borenäs M, Umapathy G, Lai WY, Lind DE, Witek B, Guan J, Mendoza-Garcia P, Masudi T, Claeys A, Chuang TP, Wakil AE, <b>Arefin B</b>, Fransson S, Koster J, Johansson M, Gaarder J, Eynden JVD, Hallberg B, Palmer RH.<br><i>
+	<b>EMBO J (2021).</b></i>
+
+
+</li><br>
 	<li>
 		<a href="https://www.ncbi.nlm.nih.gov/pubmed/31825841">	<b>Drosophila Neuroblast Selection Is Gated by Notch, Snail, SoxB, and EMT Gene Interplay.</b></a><br><b>Arefin B</b>, Parvin F, Bahrampour S, Stadler CB, Thor S.<br><i>
 		<b>Cell Reports (2019).</b></i>
