@@ -13,7 +13,9 @@ title: Publications
 	Mendoza-Garcia P, Basu S, Sukumar SK, <b>Arefin B</b>, Wolfstetter G, Anthonydhason V, Molander L, Lindehell H, Larsson J, Larsson E, Bemark M, Palmer Palmer RH.<br><i>
 	<b>biorxiv (2021).</b></i>
 
-<a href="https://pubmed.ncbi.nlm.nih.gov/33411331"><b>ALK ligand ALKAL2 potentiates MYCN-driven neuroblastoma in the absence of ALK mutation.</b></a><br>
+</li><br>
+	<li>	
+		<a href="https://pubmed.ncbi.nlm.nih.gov/33411331"><b>ALK ligand ALKAL2 potentiates MYCN-driven neuroblastoma in the absence of ALK mutation.</b></a><br>
 	Borenäs M, Umapathy G, Lai WY, Lind DE, Witek B, Guan J, Mendoza-Garcia P, Masudi T, Claeys A, Chuang TP, Wakil AE, <b>Arefin B</b>, Fransson S, Koster J, Johansson M, Gaarder J, Eynden JVD, Hallberg B, Palmer RH.<br><i>
 	<b>EMBO J (2021).</b></i>
 
