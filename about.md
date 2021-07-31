@@ -13,4 +13,4 @@ My motto: <i>"Let's be kind, generous and uplift others".</i><br><br>
 
 <h2>Bio</h2>
 <ul>
-<li> I was born and raised in Bangladesh. I moved to Sweden in Aug. 2008 to pursue master studies in Biotechnology. Throughout my life, I am/was incredibly well supported by the family and friends, so grateful to them! Normally I try to be active physically, so I go for running 2-3 times a week or do some cross-training exercises. In my spare time, I spend time reading newspapers, watching fun stuffs in the internet and on Netflix, and with firends.
+<li> I was born and raised in Bangladesh. I moved to Sweden in Aug. 2008 to pursue master studies in Biotechnology. Throughout my life, I am/was incredibly well supported by the family and friends, so grateful to them! Normally I try to be active physically, so I go for running 2-3 times a week or do some cross-training exercises. In my spare time, I spend time reading newspapers, watching fun stuffs in the internet and on Netflix, and with friends.
