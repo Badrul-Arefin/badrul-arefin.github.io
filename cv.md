@@ -80,7 +80,6 @@ permalink: /cv/
 - Oral gavage
 - Mouse tissue dissection and blood collection
 - Making xenograft
-
 <br><b> For Drosophila work  
  - Drosophila genetics
 - Transgenic Drosophila generation
@@ -94,7 +93,7 @@ permalink: /cv/
 - Bioinformatics including R programming
 - Standard molecular biology techniques including qPCR and single embryo PCR, co-immunoprecipitation for 
   membrane proteins, and immunostaining
-- Radiation biology
+- UV Radiation
 - Nematode infection 
 - Extensive microscopy including stereo, epi-fluorescence, Cell Observer, confocal and TIRF microscopy  <br><br>
 
