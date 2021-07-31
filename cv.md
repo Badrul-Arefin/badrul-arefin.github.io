@@ -75,19 +75,26 @@ permalink: /cv/
 - <b> Mentoring:</b> I was involved in a group of 4 PhD students mentoring 20 students (medical, dental and biology) from Saudi Arabia during their 2 weeks stay in Stockholm for the ‘medical and molecular biosciences’ course, June 2014.<br><br>
 
 ### SKILLS/METHODOLOGY (SELECTED)
+<br><b> For Mouse work
+- Ultrasound screening for tumor and 3D scan
+- Oral gavage
+- Mouse tissue dissection and blood collection
+- Making xenograft
+<br><b> For Drosophila work  
+ - Drosophila genetics
+- Transgenic Drosophila generation
+- Drosophila cell culture  
+- Drosophila tissue dissection including embryonic CNS  
+<br><b> Common techniques for both organisms and beyound
 - Single cell RNA-seq (scRNA-seq) analysis
 - ChIP-seq and DamID-seq data analysis
 - Microarray and RNA-seq data analysis
 - Bioinformatics including R programming
-- Drosophila genetics
-- Transgenic Drosophila generation
-- Drosophila cell culture
 - Standard molecular biology techniques including qPCR and single embryo PCR, co-immunoprecipitation for 
-membrane proteins, and immunostaining
-- Extensive microscopy including stereo, epi-fluorescence, Cell Observer, confocal and TIRF microscopy
+  membrane proteins, and immunostaining
 - Radiation biology
-- Nematode infection
-- Drosophila tissue dissection including embryonic CNS<br><br>
+- Nematode infection 
+- Extensive microscopy including stereo, epi-fluorescence, Cell Observer, confocal and TIRF microscopy  <br><br>
 
 ### GRANTS/SCHOLARSHIPS
 - 3 years postdoctoral grants from <a href="https://www.cancerfonden.se/forskning/for-forskare/samtliga-anslagsbeslut">
