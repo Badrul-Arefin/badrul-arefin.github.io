@@ -29,7 +29,7 @@ permalink: /cv/
 - I supervised 13 persons from Sweden and abroad on a daily basis from various levels including exchange PhD students, guest researcher, diploma project and master thesis students.<br>
 - Completed a teaching course at Stockholm University: Introduction to teaching for postgraduate and postdoctoral researchers, 2015.<br><br>
 
-### LISTED REVEWER FOR
+### REVEWER FOR
 - GENETICS
 - G3: Genes, Genomes, Genetics	
 - PLOS ONE
