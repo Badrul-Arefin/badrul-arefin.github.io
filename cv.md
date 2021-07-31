@@ -80,13 +80,15 @@ permalink: /cv/
 - Oral gavage
 - Mouse tissue dissection and blood collection
 - Making xenograft
+
 <br><b> For Drosophila work  
  - Drosophila genetics
 - Transgenic Drosophila generation
 - Drosophila cell culture  
 - Drosophila tissue dissection including embryonic CNS  
+
 <br><b> Common techniques for both organisms and beyound
-- Single cell RNA-seq (scRNA-seq) analysis
+ - Single cell RNA-seq (scRNA-seq) analysis
 - ChIP-seq and DamID-seq data analysis
 - Microarray and RNA-seq data analysis
 - Bioinformatics including R programming
