@@ -80,6 +80,7 @@ permalink: /cv/
 - Oral gavage
 - Mouse tissue dissection and blood collection
 - Making xenograft
+ 
 <br><b> For Drosophila work  
  - Drosophila genetics
 - Transgenic Drosophila generation
