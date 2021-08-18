@@ -87,7 +87,7 @@ permalink: /cv/
 - Drosophila cell culture  
 - Drosophila tissue dissection including embryonic CNS  
 
-<br><b> Common techniques for both organisms and beyound
+<br><b> Common techniques for both organisms and beyond
  - Single cell RNA-seq (scRNA-seq) analysis
 - ChIP-seq and DamID-seq data analysis
 - Microarray and RNA-seq data analysis
