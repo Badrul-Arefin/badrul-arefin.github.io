@@ -10,7 +10,7 @@ Here I listed the projects title just to give you a glimpse of what research I w
 <h2>In brief</h2>
 
 <b> 2nd Postdoc research</b><br> 
-Compresensive single cell analysis and functional validation of ALK-driven neuroblastoma models. I added little description regarding my work on the home page, so please see there. <a href="https://badrul-arefin.github.io/">Link</a> <br>Supervisor: Prof. Ruth Palmer, Sahlgrenska Academy, Gothenburg University, Sweden. <br>
+Comprehensive single cell analysis and functional validation of ALK-driven neuroblastoma models. I added little description regarding my work on the home page, so please see there. <a href="https://badrul-arefin.github.io/">Link</a> <br>Supervisor: Prof. Ruth Palmer, Sahlgrenska Academy, Gothenburg University, Sweden. <br>
 
 
 <b> 1st Postdoc research</b><br> 
