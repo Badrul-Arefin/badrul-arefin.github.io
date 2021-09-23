@@ -88,7 +88,8 @@ permalink: /cv/
 - Drosophila tissue dissection including embryonic CNS  
 
 <br><b> Common techniques for both organisms and beyond
- - Single cell RNA-seq (scRNA-seq) analysis
+- Single cell RNA-seq (scRNA-seq) analysis
+- Proteomics and Phospho-proteomics data analysis
 - ChIP-seq and DamID-seq data analysis
 - Microarray and RNA-seq data analysis
 - Bioinformatics including R programming
@@ -96,7 +97,7 @@ permalink: /cv/
   membrane proteins, and immunostaining
 - UV Radiation
 - Nematode infection 
-- Extensive microscopy including stereo, epi-fluorescence, Cell Observer, confocal and TIRF microscopy  <br><br>
+- Extensive microscopy including stereo, epi-fluorescence, Cell Observer, confocal, Cell Discover 7 and TIRF microscopy  <br><br>
 
 ### GRANTS/SCHOLARSHIPS
 - 3 years postdoctoral grants from <a href="https://www.cancerfonden.se/forskning/for-forskare/samtliga-anslagsbeslut">
