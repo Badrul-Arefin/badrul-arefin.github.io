@@ -11,7 +11,7 @@ title: Publications
 
 <a href="https://pubmed.ncbi.nlm.nih.gov/34819497/"><b>ATR inhibition enables complete tumour regression in ALK-driven NB mouse models.</b></a><br>
 	Szydzik J*, Lind DE*, <b>Arefin B</b>, Kurhe Y, Umapathy G, Siaw JT, Claeys A, Gabre JL, Eynden JVD, Hallberg B, Palmer RH.<br><i>
-	<b>Nature Communications (2021).</b></i>
+	<b>Nature Communications (2021).</b><br></i>
 	* equal contribution
 
 </li><br>
