@@ -18,9 +18,9 @@ title: Publications
 
 <li>
 
-   <a href="https://www.biorxiv.org/content/10.1101/2021.01.25.428051v1"><b>DamID transcriptional profiling identifies the Snail/Scratch transcription factor Kahuli as Alk target in the Drosophila visceral mesoderm.</b></a><br>
-	Mendoza-Garcia P, Basu S, Sukumar SK, <b>Arefin B</b>, Wolfstetter G, Anthonydhason V, Molander L, Lindehell H, Larsson J, Larsson E, Bemark M, Palmer RH.<br><i>
-	<b>biorxiv (2021).</b></i>
+   <a href="https://pubmed.ncbi.nlm.nih.gov/34905617/"><b>DamID transcriptional profiling identifies the Snail/Scratch transcription factor Kahuli as Alk target in the Drosophila visceral mesoderm.</b></a><br>
+	Mendoza-Garcia P, Basu S, Sukumar SK, <b>Arefin B</b>, Wolfstetter G, Anthonydhason V, Molander L, Uckun E, Lindehell H, Lebrero-Fernandez C, Larsson J, Larsson E, Bemark M, Palmer RH.<br><i>
+	<b>Development (2021).</b></i>
 
 </li><br>
 	<li>	
