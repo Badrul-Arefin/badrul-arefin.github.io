@@ -6,7 +6,7 @@ permalink: /cv/
 ### EDUCATION & EMPLOYMENT
 
 <br><b>University of Gothenburg, Sweden</b>                              <b>(2019-present)</b><br>
-- Postdoctoral Researcher, Cancer Biology
+- Cancerfonden Postdoctoral Researcher, Cancer Biology
 
 <br><b>Linköping University, Sweden</b>						        <b>(2017-2019)</b><br>
 - Postdoctoral Researcher, Developmental Neurobiology
