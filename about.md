@@ -8,7 +8,7 @@ For the last 11+ years, my research revolves around different areas namely molec
 <br><br>
 When I reflect on my training, I consider my PhD and postdoc times were very rewarding in terms of diversity of the projects, scientific output and I was exposed to lots of teaching, thanks to my great PhD and postdoc supervisors. 
 <br><br>
-I believe I am a curiosity-driven person and very passionate about research. I really love working in the lab. Along the way, I got 12+ publications, among them I am the 1st author for 6 original research articles. In addition to these, my scientitifc career is/was benefited enormously by Prof. Edgar Pera over the years to reach my goals, although he was not connected with my research. Therefore I am very much thankful to my supervisors, mentors and the colleagues for their incredible contribution! Finally my goal is to grow continuously as a scientist and become a better human being. <br><br>
+I believe I am a curiosity-driven person and very passionate about research. I really love working in the lab. Along the way, I got 14+ publications, among them I am the 1st author for 6 original research articles. In addition to these, my scientitifc career is/was benefited enormously by Prof. Edgar Pera over the years to reach my goals, although he was not connected with my research. Therefore I am very much thankful to my supervisors, mentors and the colleagues for their incredible contribution! Finally my goal is to grow continuously as a scientist and become a better human being. <br><br>
 My motto: <i>"Let's be kind, generous and uplift others".</i><br><br>
 
 <h2>Bio</h2>
