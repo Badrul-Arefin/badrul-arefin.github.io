@@ -10,7 +10,7 @@ title: Publications
 <li>
 
 <a href="https://pubmed.ncbi.nlm.nih.gov/35972154/"><b>Patient-associated mutations in Drosophila Alk perturb neuronal differentiation and promote survival.</b></a><br>
-	Pfeifer K, Wolfstetter G*, Anthonydhason V*, Masudi T, <b>Arefin B</>, Bemark M, Mendoza-Garcia P, Palmer RH. <br><i>
+	Pfeifer K, Wolfstetter G*, Anthonydhason V*, Masudi T, <b>Arefin B</b>, Bemark M, Mendoza-Garcia P, Palmer RH. <br><i>
 	<b>Disease Models & Mechanisms  (2022).</b><br></i>
 	* equal contribution
 
