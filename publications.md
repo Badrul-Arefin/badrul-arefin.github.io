@@ -9,6 +9,15 @@ title: Publications
 
 <li>
 
+<a href="https://pubmed.ncbi.nlm.nih.gov/35972154/"><b>Patient-associated mutations in Drosophila Alk perturb neuronal differentiation and promote survival.</b></a><br>
+	Pfeifer K, Wolfstetter G*, Anthonydhason V*, Masudi T, <b>Arefin B</>, Bemark M, Mendoza-Garcia P, Palmer RH. <br><i>
+	<b>Disease Models & Mechanisms  (2022).</b><br></i>
+	* equal contribution
+
+</li><br>
+
+<li>
+
 <a href="https://pubmed.ncbi.nlm.nih.gov/34819497/"><b>ATR inhibition enables complete tumour regression in ALK-driven NB mouse models.</b></a><br>
 	Szydzik J*, Lind DE*, <b>Arefin B</b>, Kurhe Y, Umapathy G, Siaw JT, Claeys A, Gabre JL, Eynden JVD, Hallberg B, Palmer RH.<br><i>
 	<b>Nature Communications (2021).</b><br></i>
