@@ -50,7 +50,7 @@ permalink: /cv/
 -Yeast Two Hybrid (Y2H)
 - Bioinformatics including R programming
 - Standard molecular biology techniques including avdanced molecular cloning, qPCR, single embryo PCR, and co-immunoprecipitation for membrane proteins
--Immunohistochemistry
+- Immunohistochemistry
 - UV Radiation
 - Nematode infection 
 - Extensive microscopy including live imaging. Routinely using stereo, epi-fluorescence, Cell Observer, confocal, Cell Discover 7 and TIRF microscopes  <br><br>
