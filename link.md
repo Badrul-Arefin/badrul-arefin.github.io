@@ -23,7 +23,7 @@ I find it very interesting listening to them. Some may view it as "<b>Oral histo
 
 
 <li>
-<a href="https://hgserver1.amc.nl/cgi-bin/r2/main.cgi?open_page=login"><b>R2 Genomics Analysis and Visualization Platform</b></a><br>
+<a href="https://hgserver1.amc.nl/cgi-bin/r2/main.cgi"><b>R2 Genomics Analysis and Visualization Platform</b></a><br>
 </li><br>
 
 <li>
