@@ -29,6 +29,33 @@ permalink: /cv/
 - I supervised 13 persons from Sweden and abroad on a daily basis from various levels including exchange PhD students, guest researcher, diploma project and master thesis students.<br>
 - Completed a teaching course at Stockholm University: Introduction to teaching for postgraduate and postdoctoral researchers, 2015.<br><br>
 
+### SKILLS/METHODOLOGY (SELECTED)
+<br><b> For Mouse work
+- Ultrasound screening for tumor and 3D scan
+- Oral gavage
+- Mouse tissue dissection and blood collection
+- Making xenograft
+ 
+<br><b> For Drosophila work  
+ - Drosophila genetics
+- Transgenic Drosophila generation
+- Drosophila cell culture  
+- Drosophila tissue dissection including embryonic CNS  
+
+<br><b> Common techniques for both organisms and beyond
+- Single cell RNA-seq (scRNA-seq) analysis
+- Proteomics and Phospho-proteomics data analysis
+- ChIP-seq and DamID-seq data analysis
+- Microarray and RNA-seq data analysis
+-Yeast Two Hybrid (Y2H)
+- Bioinformatics including R programming
+- Standard molecular biology techniques including avdanced molecular cloning, qPCR, single embryo PCR, and co-immunoprecipitation for membrane proteins
+-Immunohistochemistry
+- UV Radiation
+- Nematode infection 
+- Extensive microscopy including live imaging. Routinely using stereo, epi-fluorescence, Cell Observer, confocal, Cell Discover 7 and TIRF microscopes  <br><br>
+
+
 ### REVIEWER FOR
 - GENETICS
 - G3: Genes, Genomes, Genetics	
@@ -74,30 +101,6 @@ permalink: /cv/
 - <b> Journal featuring our research:</b> Journal of Innate Immunity made the front page featuring our research article, published in those issues (vol. 6, No. 2, 2014 & Vol. 8, No. 2, 2016).
 - <b> Mentoring:</b> I was involved in a group of 4 PhD students mentoring 20 students (medical, dental and biology) from Saudi Arabia during their 2 weeks stay in Stockholm for the ‘medical and molecular biosciences’ course, June 2014.<br><br>
 
-### SKILLS/METHODOLOGY (SELECTED)
-<br><b> For Mouse work
-- Ultrasound screening for tumor and 3D scan
-- Oral gavage
-- Mouse tissue dissection and blood collection
-- Making xenograft
- 
-<br><b> For Drosophila work  
- - Drosophila genetics
-- Transgenic Drosophila generation
-- Drosophila cell culture  
-- Drosophila tissue dissection including embryonic CNS  
-
-<br><b> Common techniques for both organisms and beyond
-- Single cell RNA-seq (scRNA-seq) analysis
-- Proteomics and Phospho-proteomics data analysis
-- ChIP-seq and DamID-seq data analysis
-- Microarray and RNA-seq data analysis
-- Bioinformatics including R programming
-- Standard molecular biology techniques including qPCR and single embryo PCR, co-immunoprecipitation for 
-  membrane proteins, and immunostaining
-- UV Radiation
-- Nematode infection 
-- Extensive microscopy including stereo, epi-fluorescence, Cell Observer, confocal, Cell Discover 7 and TIRF microscopy  <br><br>
 
 ### GRANTS/SCHOLARSHIPS
 - 3 years postdoctoral grants from <a href="https://www.cancerfonden.se/forskning/for-forskare/samtliga-anslagsbeslut">
