@@ -26,7 +26,7 @@ permalink: /cv/
 ### TEACHING EXPERIENCE/LAB SUPERVISION AT STOCKHOLM UNIVERSITY
 - Molecular Cell Biology course lab, undergraduate level, 64 students, 2015, 2014, 2013 & 2012.<br>
 - Molecular Genetics course lab, master’s level, 4-6 persons, designed and running lab for 3.5 weeks and grading the lab reports, 2014 & 2013.<br>
-- I supervised 13 persons from Sweden and abroad on a daily basis from various levels including exchange PhD students, guest researcher, diploma project and master thesis students.<br>
+- I supervised 16 persons from Sweden and abroad on a daily basis from various levels including exchange PhD students, guest researcher, diploma project and master thesis students.<br>
 - Completed a teaching course at Stockholm University: Introduction to teaching for postgraduate and postdoctoral researchers, 2015.<br><br>
 
 ### SKILLS/METHODOLOGY (SELECTED)
@@ -43,11 +43,11 @@ permalink: /cv/
 - Drosophila tissue dissection including embryonic CNS  
 
 <br><b> Common techniques for both organisms and beyond
-- Single cell RNA-seq (scRNA-seq) analysis
+- Single cell RNA-seq (scRNA-seq) data analysis
 - Proteomics and Phospho-proteomics data analysis
 - ChIP-seq and DamID-seq data analysis
 - Microarray and RNA-seq data analysis
--Yeast Two Hybrid (Y2H)
+- Yeast Two Hybrid (Y2H)
 - Bioinformatics including R programming
 - Standard molecular biology techniques including avdanced molecular cloning, qPCR, single embryo PCR, and co-immunoprecipitation for membrane proteins
 - Immunohistochemistry
