@@ -11,7 +11,6 @@ title: Link
 
 </li><br>
 
-<li>
 
 <a href="http://www.genestory.org/projectDev.html"><b>Conversations in Genetics</b></a><br>
 I find it very interesting listening to them. Some may view it as "<b>Oral history in Genetics</b>". The below text summarizes why it is made for.<br> 
@@ -29,9 +28,10 @@ I find it very interesting listening to them. Some may view it as "<b>Oral histo
 
 <a href="https://www.ibiology.org/"><b>iBiology</b></a><br>
 
-<b>
+</li><br>
+
+<li>
 
 <a href="https://hgserver1.amc.nl/cgi-bin/r2/main.cgi?open_page=login"><b>R2 Genomics Analysis and Visualization Platform</b></a><br>
 
 
-</ul>
