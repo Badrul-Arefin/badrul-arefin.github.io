@@ -29,7 +29,7 @@ I find it very interesting listening to them. Some may view it as "<b>Oral histo
 
 <li>
 <a href="https://hgserver1.amc.nl/cgi-bin/r2/main.cgi"><b>R2 Genomics Analysis and Visualization Platform</b></a><br>
-<br><br>
+<br>
 
 <li>
 <a href="https://www.biointeractive.org/"><b>hhmi: Biointeractive</b></a><br>
