@@ -8,7 +8,7 @@ permalink: /cv/
 <br><b>University of Gothenburg, Sweden</b>                              <b>(2019-present)</b><br>
 - Cancerfonden Postdoctoral Researcher, Cancer Biology
 
-<b>Linköping University, Sweden</b>						        <b>(2017-2019)</b><br>
+<br><b>Linköping University, Sweden</b>						        <b>(2017-2019)</b><br>
 - Postdoctoral Researcher, Developmental Neurobiology
 
 <br><b>Stockholm University, Sweden</b>						        <b>(2010-2017)</b><br>

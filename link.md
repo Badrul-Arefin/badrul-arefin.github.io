@@ -7,7 +7,7 @@ title: Link
 
 <li>
 <a href="http://flybase.org/"><b>FlyBase</b></a><br>A Database of Drosophila Genes & Genomes<br> 
-
+<br>
 <li>
 <a href="https://www.informatics.jax.org/"><b>MGI</b></a><br>Mouse Genome Informatics<br>
 
