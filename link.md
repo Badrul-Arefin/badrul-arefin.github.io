@@ -7,7 +7,8 @@ title: Link
 
 <li>
 
-<a href="http://flybase.org/">FlyBase</a><br>
+
+<a href="http://flybase.org/"><b>FlyBase</b></a><br>
 
 <li>
 
