@@ -6,7 +6,7 @@ title: Link
 <b> Some useful links</b><br>
 
 <li>
-<a href="http://flybase.org/"><b>FlyBase</b></a><br>
+<a href="http://flybase.org/"><b>FlyBase</b></a><br>A Database of Drosophila Genes & Genomes 
 
 <li>
 <a href="http://www.genestory.org/projectDev.html"><b>Conversations in Genetics</b></a><br>
