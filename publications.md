@@ -9,6 +9,14 @@ title: Publications
 
 <li>
 
+<a href="https://www.biorxiv.org/content/10.1101/2022.12.02.518820v1"><b>Scavenger receptor endocytosis controls apical membrane morphogenesis in the Drosophila airways.</b></a><br>
+Pinheiro A S, Tsarouhas V, Senti K, Arefin B, Christos Samakovlis C.<br><i>
+	<b>bioRxiv (2022).</b><br></i>
+	
+</li><br>
+
+<li>
+
 <a href="https://pubmed.ncbi.nlm.nih.gov/35972154/"><b>Patient-associated mutations in Drosophila Alk perturb neuronal differentiation and promote survival.</b></a><br>
 	Pfeifer K, Wolfstetter G*, Anthonydhason V*, Masudi T, <b>Arefin B</b>, Bemark M, Mendoza-Garcia P, Palmer RH. <br><i>
 	<b>Disease Models & Mechanisms  (2022).</b><br></i>

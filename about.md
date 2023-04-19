@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-For the last 12+ years, my research revolves around different areas namely molecular and developmental biology, genetics, innate immunity and cancer. Initially it was started with a model organism <i> S. cerevisiae </i> (yeast) for a summer project. Then <i> Drosophila melanogaster </i> (fruit-fly) became the central model organism for my research until now along with mouse models. In <i> Drosophila </i>, I worked in all stages, but extensively in embryonic and larval stages for developmental biology and insect immunity  projects respectively. Mouse model is being used in childhood cancer projects.
+For the last 14+ years, my research revolves around different areas namely molecular and developmental biology, genetics, innate immunity and cancer. Initially it was started with a model organism <i> S. cerevisiae </i> (yeast) for a summer project. Then <i> Drosophila melanogaster </i> (fruit-fly) became the central model organism for my research until now along with mouse models. In <i> Drosophila </i>, I worked in all stages, but extensively in embryonic and larval stages for developmental biology and insect immunity  projects respectively. Mouse model is being used in childhood cancer projects.
 <br><br>
 When I reflect on my training, I consider my PhD and postdoc times were very rewarding in terms of diversity of the projects, scientific output and I was exposed to lots of teaching, thanks to my great PhD and postdoc supervisors. 
 <br><br>

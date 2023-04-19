@@ -43,10 +43,11 @@ permalink: /cv/
 - Drosophila tissue dissection including embryonic CNS  
 
 <br><b> Common techniques for both organisms and beyond
-- Single cell RNA-seq (scRNA-seq) data analysis
-- Proteomics and Phospho-proteomics data analysis
+- Single cell RNA-seq (scRNA-seq) data generation & analysis
+- Proteomics and Phospho-proteomics data generation & analysis
 - ChIP-seq and DamID-seq data analysis
-- Microarray and RNA-seq data analysis
+- RNA-seq data generation & analysis
+- Microarray data analysis
 - Yeast Two Hybrid (Y2H)
 - Bioinformatics including R programming
 - Standard molecular biology techniques including avdanced molecular cloning, qPCR, single embryo PCR, and co-immunoprecipitation for membrane proteins
@@ -94,7 +95,7 @@ permalink: /cv/
 - Sample preparations for Super-resolution microscopy, SciLifeLab, Stockholm.March 27, 2014.<br><br>
 
 ### OTHER SKILSS
-- Lasergene DNASTAR (I used it for cloning, sequence analysis and assembly), ImageJ (Image processing software, e.g., Confocal Images), Canvas, Clone Manager, Serial Cloner, Adobe Photoshop & Illustrator. 
+- Lasergene DNASTAR & SnapGene Viewer (I used it for cloning, sequence analysis and assembly), ImageJ (Image processing software, e.g., Confocal Images), Canvas, Clone Manager, Serial Cloner, Adobe Photoshop & Illustrator. 
 - Familiar with Unix/Linux command (completed a doctoral and a MOOC course with this command).<br><br>
 
 ### OTHERS
