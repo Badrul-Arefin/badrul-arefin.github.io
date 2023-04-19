@@ -7,10 +7,7 @@ title: Link
 
 <li>
 
-
 <a href="http://flybase.org/"><b>FlyBase</b></a><br>
-
-
 
 </li><br>
 
@@ -32,12 +29,9 @@ I find it very interesting listening to them. Some may view it as "<b>Oral histo
 
 <a href="https://www.ibiology.org/"><b>iBiology</b></a><br>
 
-</li><br>
-
-<li>
+<b>
 
 <a href="https://hgserver1.amc.nl/cgi-bin/r2/main.cgi?open_page=login"><b>R2 Genomics Analysis and Visualization Platform</b></a><br>
 
-<ul>
-	<li><a href="will add more later..">will add more later..</a> - </li>
+
 </ul>
