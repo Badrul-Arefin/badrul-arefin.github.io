@@ -11,7 +11,7 @@ title: Publications
 
 <a href="https://pubmed.ncbi.nlm.nih.gov/37706489/"><b>Scavenger receptor endocytosis controls apical membrane morphogenesis in the Drosophila airways.</b></a><br>
 Pinheiro A S, Tsarouhas V, Senti K, <b>Arefin B</b>, Samakovlis C.<br><i>
-	<b>Elife (2023).</b><br></i>
+	<b>eLife (2023).</b><br></i>
 	
 </li><br>
 
