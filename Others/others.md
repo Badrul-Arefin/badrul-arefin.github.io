@@ -3,6 +3,29 @@ layout: page
 title: Others
 permalink: /others/
 ---
+<style>
+  .image-wrapper {
+    width: 100%;
+    text-align: center;
+  }
+
+  .image-wrapper img {
+    max-width: 100%;
+    display: block;
+    margin: auto;
+  }
+
+  .image-caption {
+    font-weight: bold; /* Make caption bold */
+    font-size: 1.2em; /* Larger font size (adjust as needed) */
+    margin-top: 10px; /* Add some space between image and caption */
+  }
+</style>
+
+
+
+
+
 ### The Thor lab in Linköping in 2017.
 <style>
   .image-wrapper {
