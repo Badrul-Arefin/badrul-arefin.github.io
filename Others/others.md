@@ -4,21 +4,37 @@ title: Others
 permalink: /others/
 ---
 <style>
-  .image-wrapper {
+  .image-wrapper-1 {
     width: 100%;
     text-align: center;
   }
 
-  .image-wrapper img {
+  .image-wrapper-1 img {
     max-width: 100%;
     display: block;
     margin: auto;
   }
 
-  .image-caption {
-    font-weight: bold; /* Make caption bold */
-    font-size: 1.2em; /* Larger font size (adjust as needed) */
-    margin-top: 10px; /* Add some space between image and caption */
+  .image-wrapper-2 {
+    width: 100%;
+    text-align: center;
+  }
+
+  .image-wrapper-2 img {
+    max-width: 100%;
+    display: block;
+    margin: auto;
+  }
+
+  .image-wrapper-3 {
+    width: 100%;
+    text-align: center;
+  }
+
+  .image-wrapper-3 img {
+    max-width: 100%;
+    display: block;
+    margin: auto;
   }
 </style>
 
@@ -27,19 +43,8 @@ permalink: /others/
 
 
 ### The Thor lab in Linköping in 2017.
-<style>
-  .image-wrapper {
-    width: 100%;
-    text-align: center;
-  }
 
-  .image-wrapper img {
-    max-width: 100%;
-    display: block;
-    margin: auto;
-  }
-</style>
-<div class="image-wrapper">
+<div class="image-wrapper-1">
   {% include image.html url="/images/Thorlab.jpg" caption="<b>The Thor lab in Linköping in 2017 </b>" width=600 align="left" %}
 </div>
 
@@ -49,19 +54,8 @@ permalink: /others/
 
 
 ### At my PhD dissertation dinner in Stockholm in 2016.
-<style>
-  .image-wrapper {
-    width: 100%;
-    text-align: center;
-  }
 
-  .image-wrapper img {
-    max-width: 100%;
-    display: block;
-    margin: auto;
-  }
-</style>
-<div class="image-wrapper">
+<div class="image-wrapper-2">
   {% include image.html url="/images/UliSpeech.jpeg" caption="<b>At my PhD dissertation dinner in Stockholm in 2016</b>." width=600 align="left" %}
 </div>
 <br><br> <!-- Add 2 line breaks -->
