@@ -8,7 +8,7 @@ permalink: /others/
 
 
 ### At my PhD dissertation dinner in Stockholm in 2016.
-{% include image.html url="/images/UliSpeech.jpeg" caption="At my PhD dissertation dinner in Stockholm." width=600 align="left" %}
+{% include image.html url="/images/UliSpeech.jpeg" caption="At my PhD dissertation dinner in Stockholm." width=600 %}
 <br><br> <!-- Add line break -->
 
 
