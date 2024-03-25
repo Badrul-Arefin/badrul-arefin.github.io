@@ -5,7 +5,8 @@ permalink: /others/
 ---
 ### The Thor lab in Linköping in 2017.
 {% include image.html url="/images/Thorlab.jpg" caption="The Thor lab in Linköping" width=600 align="left" %} <br><br> <!-- Add line break -->
-
+<!-- Add line break -->
+<!-- Add line break -->
 
 ### At my PhD dissertation dinner in Stockholm in 2016.
 {% include image.html url="/images/UliSpeech.jpeg" caption="At my PhD dissertation dinner in Stockholm." width=600 align="left" %}
