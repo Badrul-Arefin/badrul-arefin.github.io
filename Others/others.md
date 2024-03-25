@@ -22,6 +22,9 @@ permalink: /others/
 
 <br><br><br> <!-- Add 3 line breaks -->
 
+<hr> <!-- Horizontal line for visual separation -->
+
+
 ### At my PhD dissertation dinner in Stockholm in 2016.
 <style>
   .image-wrapper {
@@ -36,7 +39,7 @@ permalink: /others/
   }
 </style>
 <div class="image-wrapper">
-  {% include image.html url="/images/UliSpeech.jpeg" caption="At my PhD dissertation dinner in Stockholm." width=600 %}
+  {% include image.html url="/images/UliSpeech.jpeg" caption="At my PhD dissertation dinner in Stockholm." width=600 align="left" %}
 </div>
 <br><br><br><br> <!-- Add 4 line breaks -->
 
