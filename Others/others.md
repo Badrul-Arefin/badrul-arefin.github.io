@@ -10,7 +10,6 @@ permalink: /others/
 {% include image.html url="/images/UliSpeech.jpeg" caption="At my PhD dissertation dinner in 2016." width=600 align="left" %}
 <br><br> <!-- Add line break -->
 
-{% include image.html url="/images/UliSpeech.jpeg" caption="Second Image Caption" width=600 align="left" %}
 
 <br><br> <!-- Add line break -->
 
