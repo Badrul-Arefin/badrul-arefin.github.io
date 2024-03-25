@@ -4,15 +4,41 @@ title: Others
 permalink: /others/
 ---
 ### The Thor lab in Linköping in 2017.
-{% include image.html url="/images/Thorlab.jpg" caption="The Thor lab in Linköping" width=600 align="left" %} <br><br><br><br> <!-- Add line break -->
+<style>
+  .image-wrapper {
+    width: 100%;
+    text-align: center;
+  }
 
+  .image-wrapper img {
+    max-width: 100%;
+    display: block;
+    margin: auto;
+  }
+</style>
+<div class="image-wrapper">
+  {% include image.html url="/images/Thorlab.jpg" caption="The Thor lab in Linköping" width=600 align="left" %}
+</div>
+
+<br><br><br> <!-- Add 3 line breaks -->
 
 ### At my PhD dissertation dinner in Stockholm in 2016.
-{% include image.html url="/images/UliSpeech.jpeg" caption="At my PhD dissertation dinner in Stockholm." width=600 %}
-<br><br> <!-- Add line break -->
+<style>
+  .image-wrapper {
+    width: 100%;
+    text-align: center;
+  }
 
-
-<br><br> <!-- Add line break -->
+  .image-wrapper img {
+    max-width: 100%;
+    display: block;
+    margin: auto;
+  }
+</style>
+<div class="image-wrapper">
+  {% include image.html url="/images/UliSpeech.jpeg" caption="At my PhD dissertation dinner in Stockholm." width=600 %}
+</div>
+<br><br><br><br> <!-- Add 4 line breaks -->
 
 <hr> <!-- Horizontal line for visual separation -->
 
