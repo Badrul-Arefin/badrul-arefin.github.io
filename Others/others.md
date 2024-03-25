@@ -40,18 +40,11 @@ permalink: /others/
 
 
 
-
-
-
-
 <div class="image-wrapper-1">
   {% include image.html url="/images/Thorlab.jpg" caption="<b>The Thor lab in Linköping in 2017 </b>" width=600 align="left" %}
 </div>
 
 <br><br> <!-- Add 2 line breaks -->
-
-<hr> <!-- Horizontal line for visual separation -->
-
 
 
 
@@ -60,7 +53,6 @@ permalink: /others/
 </div>
 <br><br> <!-- Add 2 line breaks -->
 
-<hr> <!-- Horizontal line for visual separation -->
 
 
 {% include image.html url="/images/Front_JII_2.jpg" caption="Journal cover page featuring our research in 2016" width=290 align="left" %}
