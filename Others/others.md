@@ -42,7 +42,7 @@ permalink: /others/
 
 
 
-### The Thor lab in Linköping in 2017.
+
 
 <div class="image-wrapper-1">
   {% include image.html url="/images/Thorlab.jpg" caption="<b>The Thor lab in Linköping in 2017 </b>" width=600 align="left" %}
