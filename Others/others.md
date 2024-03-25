@@ -43,7 +43,7 @@ permalink: /others/
   {% include image.html url="/images/Thorlab.jpg" caption="<b>The Thor lab in Linköping in 2017 </b>" width=600 align="left" %}
 </div>
 
-<br><br><br> <!-- Add 3 line breaks -->
+<br><br> <!-- Add 2 line breaks -->
 
 <hr> <!-- Horizontal line for visual separation -->
 
@@ -64,7 +64,7 @@ permalink: /others/
 <div class="image-wrapper">
   {% include image.html url="/images/UliSpeech.jpeg" caption="<b>At my PhD dissertation dinner in Stockholm in 2016</b>." width=600 align="left" %}
 </div>
-<br><br><br><br> <!-- Add 4 line breaks -->
+<br><br> <!-- Add 2 line breaks -->
 
 <hr> <!-- Horizontal line for visual separation -->
 
