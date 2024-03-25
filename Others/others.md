@@ -7,8 +7,8 @@ permalink: /others/
 {% include image.html url="/images/Thorlab.jpg" caption="The Thor lab in Linköping" width=600 align="left" %}<br><br> <!-- Add line break -->
 
 
-### At my PhD dissertation dinner in 2016.
-{% include image.html url="/images/UliSpeech.jpeg" caption="At my PhD dissertation dinner in 2016." width=600 align="left" %}
+### At my PhD dissertation dinner in Stockholm in 2016.
+{% include image.html url="/images/UliSpeech.jpeg" caption="At my PhD dissertation dinner in Stockholm." width=600 align="left" %}
 <br><br> <!-- Add line break -->
 
 
