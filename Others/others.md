@@ -40,7 +40,7 @@ permalink: /others/
   }
 </style>
 <div class="image-wrapper">
-  {% include image.html url="/images/Thorlab.jpg" caption="The Thor lab in Linköping" width=600 align="left" %}
+  {% include image.html url="/images/Thorlab.jpg" caption="<b>The Thor lab in Linköping in 2017 </b>" width=600 align="left" %}
 </div>
 
 <br><br><br> <!-- Add 3 line breaks -->
