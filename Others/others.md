@@ -53,7 +53,7 @@ permalink: /others/
 <hr> <!-- Horizontal line for visual separation -->
 
 
-### At my PhD dissertation dinner in Stockholm in 2016.
+
 
 <div class="image-wrapper-2">
   {% include image.html url="/images/UliSpeech.jpeg" caption="<b>At my PhD dissertation dinner in Stockholm in 2016</b>." width=600 align="left" %}
@@ -62,7 +62,7 @@ permalink: /others/
 
 <hr> <!-- Horizontal line for visual separation -->
 
-### Journal of Innate Immunity was featuring our research in 2014 & 2016.
+
 {% include image.html url="/images/Front_JII_2.jpg" caption="Journal cover page featuring our research in 2016" width=290 align="left" %}
 
 {% include image.html url="/images/Front_JII_1.jpg" caption="Journal cover page featuring our research in 2014" width=290 align="left" %} <br><br>
