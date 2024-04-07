@@ -10,7 +10,7 @@ Here I listed the projects title just to give you a glimpse of what research I w
 <h2>In brief</h2>
 
 <b> 2nd Postdoc research</b><br> 
-Comprehensive single cell analysis and functional validation of ALK-driven neuroblastoma models. I added little description regarding my work on the home page, so please see there. <a href="https://badrul-arefin.github.io/" style="font-weight:bold; font-size:18px;" >Link</a> <br>Supervisor: Prof. Ruth Palmer, Sahlgrenska Academy, Gothenburg University, Sweden. <br>
+Comprehensive single cell analysis and functional validation of ALK-driven neuroblastoma models. I added little description regarding my work on the home page, so please see there. <a href="https://badrul-arefin.github.io/">Link</a> <br>Supervisor: Prof. Ruth Palmer, Sahlgrenska Academy, Gothenburg University, Sweden. <br>
 
 
 <b> 1st Postdoc research</b><br> 
@@ -21,7 +21,7 @@ To unravel the molecular network that orchestrates the central nervous system (C
 
 
 <b>PhD research</b><br>
-- Molecular characterization of the Drosophila responses towards nematodes.<br>Supervisor: Prof. Ulrich Theopold, Stockholm University, Sweden.<br> To know more, please click <a href="https://sites.google.com/view/badrularefin/research">here.</a><br>
+- Molecular characterization of the Drosophila responses towards nematodes.<br>Supervisor: Prof. Ulrich Theopold, Stockholm University, Sweden.<br> To know more, please click <b><a href="https://sites.google.com/view/badrularefin/research">here.</a></b><br>
 
 <b>Licentiate thesis</b><br>
 - The Drosophila defense towards nematodes and the contribution of danger signals. 
