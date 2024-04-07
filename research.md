@@ -5,7 +5,7 @@ title: Research
 ---
 Here I listed the projects title just to give you a glimpse of what research I was involved in. Please follow the link to know more about my research in plain words. 
  <ul>
-	<li><a href="/About/about.pdf">About my research in plain words</a></li>
+	<li><b><a href="/About/about.pdf">About my research in plain words</a></b></li>
 </ul><br>
 <h2>In brief</h2>
 
